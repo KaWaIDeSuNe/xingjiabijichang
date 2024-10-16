@@ -5,6 +5,7 @@
 
 如果您手头不是很宽裕，对于稳定性也没有特殊的需求，可以参考我的另一篇文档[低价机场推荐](https://github.com/KaWaIDeSuNe/dijiajichang) 最低仅一包辣条的价格。
 
+---
 
 ### NiceDuck 
 
@@ -21,6 +22,8 @@
 主观评价:质量稳定，速度拉满，晚高峰速度也依旧拉满。
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/66c01d9e-8ffc-429f-b098-342925c58a71">
 
+---
+
 ### NieRCloud 
 
 官网地址:[点击进入](https://niercloud.com/#/register?code=pvqbJXIn)
@@ -28,7 +31,9 @@
 主观评价:发挥依旧稳定，节点质量没得说，速度解锁都是极其优秀的水平。
 <img width="1126" alt="image" src="https://github.com/user-attachments/assets/3bb00574-2a8c-4522-8e77-ad8a15afd94b">
 
+---
 ### 守候网络
+
 
 官网地址:[点击进入](https://my.xn--hwqp2zit2amna.com/auth/register?code=oRHoURDS)
 
@@ -52,6 +57,7 @@
 主观评价:稳定性很不错，带宽很大，他家的0.2x低倍率节点可用性非常高，已经导致1倍节点无人问津，性价比非常高。
 <img width="1378" alt="image" src="https://github.com/user-attachments/assets/35adf221-35df-4647-bd73-0f1647efefc8">
 
+---
 
 ### OuO Network 
 
@@ -63,5 +69,11 @@
 主观评价:US节点自带解锁p站会员，解锁优秀，稳定性很不错，性价比挺高。
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/3d240346-6d6d-42f4-84c0-94642466c1ba">
 
+---
+如果您有任何需求、问题或建议，欢迎提出。您也可以发送邮件至：[我的邮箱](Mailto://liangduanqi@gmail.com)
 
+如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)
+## Star 历史
+
+![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
 

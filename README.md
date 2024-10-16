@@ -70,7 +70,7 @@
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/3d240346-6d6d-42f4-84c0-94642466c1ba">
 
 ---
-如果您有任何需求、问题或建议，欢迎提出。您也可以发送邮件至：[我的邮箱](Mailto://liangduanqi@gmail.com)
+如果您有任何需求、问题或建议，欢迎提出。
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)
 ## Star 历史

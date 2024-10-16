@@ -11,6 +11,10 @@
 
 ### 守候网络
 
+官网地址:[点击进入](https://my.xn--hwqp2zit2amna.com/auth/register?code=oRHoURDS)
+
+优惠码：10%discount
+
 机场特色：
 
 ➡️普通套餐服务
@@ -26,8 +30,6 @@
 🟢 免费提供个人落地中转服务
 🟢 上海、江苏、东莞、深圳、北京、广州
 
-官网地址:[点击进入](https://my.xn--hwqp2zit2amna.com/auth/register?code=oRHoURDS)
-
 主观评价:稳定性很不错，带宽很大，他家的0.2x低倍率节点可用性非常高，已经导致1倍节点无人问津，性价比非常高。
 <img width="1378" alt="image" src="https://github.com/user-attachments/assets/35adf221-35df-4647-bd73-0f1647efefc8">
 
@@ -36,7 +38,21 @@
 
 官网地址:[点击进入](https://dash.ouonetwork.com/register?aff=BoD6QFCW)
 
+限时优惠： 全场7折，享受超值优惠：
+
+- 使用优惠码：niceduck777
+
+- 有效期：2024年10月01日至2024年10月31日
+
 机场特色:03:00到09:00只收10%的流量
 
 主观评价:US节点自带解锁p站会员，解锁优秀，稳定性很不错，性价比挺高。
 <img width="1410" alt="image" src="https://github.com/user-attachments/assets/3d240346-6d6d-42f4-84c0-94642466c1ba">
+
+### NiceDuck 
+
+官网地址:[点击进入](https://my.niceduck.io/register?code=lfrNJ02M)
+
+机场特色：多入口隧道中转，高SLA保证，全节点流媒体解锁，低价格，高品质，最低仅需6.6元50G，无支付手续费，您备用主力的首选！联手HXD、卷毛鼠、1111-垃圾影音，购买套餐即可赠送三家Emby，PB级资源任您挑选！
+
+主观评价:质量稳定，速度拉满，晚高峰速度也依旧拉满。

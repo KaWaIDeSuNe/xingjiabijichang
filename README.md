@@ -95,6 +95,38 @@
 ![线路分析 (2)](https://github.com/user-attachments/assets/648608a5-6096-4a9d-b3fd-38a23be1d74d)
 
 ---
+## 购买指导总结
+方便各位快速筛选定位
+
+1. **价格区分：**
+     1)**需要普通月付套餐**(每月50G-1000G流量)：
+   
+   **20块/月以下**：NiceDuck(12元/100G/月)、NiceDuck(20季付/50G/月)、NieRCloud(15元/155G)、守候网络(15元/88G)、OuO Network(10元/100G)、OuO Network(18元/200G)
+   
+   **20-50块/月**：NiceDuck(24元/200G/月)、NiceDuck(32元/300G/月)、NieRCloud(25元/228G)、守候网络(20元/150G)、守候网络(35元/350G)、守候网络(45元/500G)、OuO Network(43元/500G)
+   
+   **50块以上/月**：NiceDuck(52元/500G/月)、NieRCloud(56元/558G)
+   
+    2)**需要大流量月付套餐**(每月1000G以上)：
+     NiceDuck(95元/1000G/月)、NieRCloud(106.25元/1088G)、守候网络(828年付/1000G/月)
+   
+   3)**需要小流量月付套餐**(每月50G以下)：
+   无
+   3)**需要不限时按量付费套餐**：
+   无
+   4）**回国付费套餐**：
+   无
+   
+---
+
+## 客户端软件下载
+MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+
+安卓下载：[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+
+iOS：apple store搜索Shadowrocket下载
+
+---
 如果您有任何需求、问题或建议，欢迎提出。
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/dijiajichang)，您的支持是我更新的动力！

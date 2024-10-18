@@ -31,7 +31,7 @@
 
 ---
 
-### 二、NieRCloud 
+### 二、NieRCloud(15/月115G)
 
 官网地址:[点击进入](https://niercloud.com/#/register?code=pvqbJXIn)
 
@@ -46,7 +46,7 @@
 
 
 ---
-### 三、守候网络
+### 三、守候网络(15/月88G)
 
 
 官网地址:[点击进入](https://my.xn--hwqp2zit2amna.com/auth/register?code=oRHoURDS)
@@ -79,7 +79,7 @@
 
 ---
 
-### 四、OuO Network 
+### 四、OuO Network(10/月100G)
 
 官网地址:[点击进入](https://dash.ouonetwork.com/register?aff=BoD6QFCW)
 

@@ -28,10 +28,20 @@
 线路分析:
 ![线路分析 (1)](https://github.com/user-attachments/assets/b789e7cd-c182-4570-aa42-67be3ca46ccc)
 
+---
+
+### 二、SFCloud(15/月100G)
+
+官网地址:[点击进入](https://www.sofastcloud.net/#/register?code=lO75Nx2p)
+
+新人8折优惠：new
+
+主观评价:稳定性很好，全球50多个国家和地区的节点，还有ILEP专线，很不错。
+<img width="1327" alt="image" src="https://github.com/user-attachments/assets/d78af136-19fe-4b6c-89d6-02abcdfd71e0">
 
 ---
 
-### 二、NieRCloud(15/月115G)
+### 三、NieRCloud(15/月115G)
 
 官网地址:[点击进入](https://niercloud.com/#/register?code=pvqbJXIn)
 
@@ -46,27 +56,12 @@
 
 
 ---
-### 三、守候网络(15/月88G)
+### 四、守候网络(15/月88G)
 
 
 官网地址:[点击进入](https://my.xn--hwqp2zit2amna.com/auth/register?code=oRHoURDS)
 
 优惠码：10%discount
-
-机场特色：
-
-➡️普通套餐服务
-🔘 国内多入口超大带宽中转和IEPL专线 
-🔴 高可用的0.2倍率节点，性价比超高
-🔘 落地采用独立服务器，超强稳定性
-🟣 所有套餐均赠送emby守候影院服务
-
-➡️定制级Premium套餐专属服务
-🟢 专享低倍率节点
-🟢 高级专属Pre影视服务
-🟢 免费提供个人普通线路定制
-🟢 免费提供个人落地中转服务
-🟢 上海、江苏、东莞、深圳、北京、广州
 
 主观评价:稳定性很不错，带宽很大，他家的0.2x低倍率节点可用性非常高，已经导致1倍节点无人问津，性价比非常高。
 <img width="1378" alt="image" src="https://github.com/user-attachments/assets/35adf221-35df-4647-bd73-0f1647efefc8">
@@ -79,7 +74,7 @@
 
 ---
 
-### 四、OuO Network(10/月100G)
+### 五、OuO Network(10/月100G)
 
 官网地址:[点击进入](https://dash.ouonetwork.com/register?aff=BoD6QFCW)
 
@@ -96,7 +91,7 @@
 
 ---
 
-### 五、EFCloud(10/月200G)
+### 六、EFCloud(10/月200G)
 官网地址:[点击进入](https://inv.easyfastcloud.com/#/register?code=e6bMZ2fK)
 
 全场8折优惠券: new
@@ -121,11 +116,11 @@
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-1000G流量)：
    
-   **20块/月以下**：NiceDuck(12元/100G/月)、NiceDuck(20季付/50G/月)、NieRCloud(15元/155G)、守候网络(15元/88G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)
+   **20块/月以下**：NiceDuck(12元/100G/月)、NiceDuck(20季付/50G/月)、SFCloud(15元/100G)、NieRCloud(15元/155G)、守候网络(15元/88G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)
    
-   **20-50块/月**：NiceDuck(24元/200G/月)、NiceDuck(32元/300G/月)、NieRCloud(25元/228G)、守候网络(20元/150G)、守候网络(35元/350G)、守候网络(45元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)
+   **20-50块/月**：NiceDuck(24元/200G/月)、NiceDuck(32元/300G/月)、SFCloud(25元/200G)、NieRCloud(25元/228G)、守候网络(20元/150G)、守候网络(35元/350G)、守候网络(45元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)
    
-   **50块以上/月**：NiceDuck(52元/500G/月)、NieRCloud(56元/558G)
+   **50块以上/月**：NiceDuck(52元/500G/月)、SFCloud(50元/500G)、NieRCloud(56元/558G)
    
     2)**需要大流量月付套餐**(每月1000G以上)：
      NiceDuck(95元/1000G/月)、NieRCloud(106.25元/1088G)、守候网络(828年付/1000G/月)
@@ -134,10 +129,12 @@
    无
    
    4)**需要不限时按量付费套餐**：
-     EFCloud(25元/100G)
+     SFCloud(35元/100G)、EFCloud(25元/100G)
    
    5）**回国付费套餐**：
    无
+
+2. **有专线节点：** SFCloud、守候网络
    
 
 

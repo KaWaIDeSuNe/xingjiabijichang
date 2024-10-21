@@ -108,6 +108,20 @@
 线路分析:
 ![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)
 
+## 七、飞兔云(9.9/月118G)
+
+官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
+
+主观评价: 整体质量非常不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
+
+<img width="1028" alt="image" src="https://github.com/user-attachments/assets/f303cc5a-d116-4590-8284-0128dff512ae">
+<img width="979" alt="image" src="https://github.com/user-attachments/assets/a0f5884b-b7cc-4c72-829f-e82be04a2bbd">
+
+测速与解锁情况:
+![飞兔云测速与解锁上海电信@1Gbps (8)](https://github.com/user-attachments/assets/7a530853-a3f7-4f9e-bd2a-51283867f68f)
+
+线路分析:
+![飞兔云线路分析 (9)](https://github.com/user-attachments/assets/42f972d5-10e1-4c70-98be-3e06870d86fb)
 
 ---
 ## 购买指导总结
@@ -116,25 +130,27 @@
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-1000G流量)：
    
-   **20块/月以下**：NiceDuck(12元/100G/月)、NiceDuck(20季付/50G/月)、SFCloud(15元/100G)、NieRCloud(15元/155G)、守候网络(15元/88G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)
+   **20块/月以下**：NiceDuck(12元/100G/月)、NiceDuck(20季付/50G/月)、SFCloud(15元/100G)、NieRCloud(15元/155G)、守候网络(15元/88G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)
    
-   **20-50块/月**：NiceDuck(24元/200G/月)、NiceDuck(32元/300G/月)、SFCloud(25元/200G)、NieRCloud(25元/228G)、守候网络(20元/150G)、守候网络(35元/350G)、守候网络(45元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)
+   **20-50块/月**：NiceDuck(24元/200G/月)、NiceDuck(32元/300G/月)、SFCloud(25元/200G)、NieRCloud(25元/228G)、守候网络(20元/150G)、守候网络(35元/350G)、守候网络(45元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)
    
    **50块以上/月**：NiceDuck(52元/500G/月)、SFCloud(50元/500G)、NieRCloud(56元/558G)
    
     2)**需要大流量月付套餐**(每月1000G以上)：
-     NiceDuck(95元/1000G/月)、NieRCloud(106.25元/1088G)、守候网络(828年付/1000G/月)
+     NiceDuck(95元/1000G/月)、NieRCloud(106.25元/1088G)、守候网络(828年付/1000G/月)、飞兔云(49.9/月1000G)、飞兔云(99.9/月2000G)
    
    3)**需要小流量月付套餐**(每月50G以下)：
    无
    
    4)**需要不限时按量付费套餐**：
-     SFCloud(35元/100G)、EFCloud(25元/100G)
+     SFCloud(35元/100G)、EFCloud(25元/100G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
    
    5）**回国付费套餐**：
    无
 
 2. **有专线节点：** SFCloud、守候网络
+
+3. **有冷门节点：** SFCloud、飞兔云
    
 
 

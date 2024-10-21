@@ -112,6 +112,8 @@
 
 官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
 
+机场特色:签到送流量
+
 主观评价: 整体质量非常不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
 
 <img width="1028" alt="image" src="https://github.com/user-attachments/assets/f303cc5a-d116-4590-8284-0128dff512ae">

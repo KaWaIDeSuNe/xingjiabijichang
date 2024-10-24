@@ -38,7 +38,7 @@
 
 新人8折优惠：new
 
-主观评价:稳定性很好，全球50多个国家和地区的节点，还有ILEP专线，很不错。
+主观评价:稳定性好，速度快，全球50多个国家和地区的节点，还有IEPL专线，很不错。
 
 套餐价格:
 <img width="1327" alt="image" src="https://github.com/user-attachments/assets/d78af136-19fe-4b6c-89d6-02abcdfd71e0">

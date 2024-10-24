@@ -38,10 +38,18 @@
 
 新人8折优惠：new
 
-主观评价:稳定性好，速度快，全球50多个国家和地区的节点，还有IEPL专线，很不错。
+主观评价:个人体验也很不错，全IEPL专线机场。主流节点速度和延迟都是很不错的，流媒体解锁也比较全面。还有不少不少冷门地区节点
 
 套餐价格:
 <img width="1327" alt="image" src="https://github.com/user-attachments/assets/d78af136-19fe-4b6c-89d6-02abcdfd71e0">
+
+测速与解锁情况:
+![SFC测速](https://github.com/user-attachments/assets/06058586-32a1-40c4-bab3-8f602bd782c9)
+![SFC解锁](https://github.com/user-attachments/assets/c5f73986-e160-4fdb-8cf5-8b228e1c7b4d)
+
+线路分析:
+![SFC线路分析](https://github.com/user-attachments/assets/7674f73a-4b9c-4b71-a4e6-5c95bcf68190)
+
 
 ---
 

@@ -138,6 +138,25 @@
 ![飞兔云线路分析 (9)](https://github.com/user-attachments/assets/42f972d5-10e1-4c70-98be-3e06870d86fb)
 
 ---
+## 八、EdNovas(30/月200G)
+官网地址:[点击进入](https://ednovas.org/#/register?code=Z7BBcd70)
+
+机场特色:冷门节点非常多，有回国线路
+
+主观评价: 速度、稳定性、解锁都很一般，只推荐给有冷门节点需求或人在海外需要回国线路的。
+
+套餐价格:
+<img width="1388" alt="image" src="https://github.com/user-attachments/assets/4c92793a-0dab-4142-bd42-1b4221157727">
+
+测速与解锁情况:
+![EdNovas-测速-2024 10 01](https://github.com/user-attachments/assets/361facf3-417b-471b-85b6-fe50091979ca)
+
+![EdNovas-流媒体解锁-2024 10 01](https://github.com/user-attachments/assets/2789f6c7-9bff-4972-87ac-0cc5b426e2a8)
+
+线路分析:
+![EdNovas-入口 落地-2024 10 01](https://github.com/user-attachments/assets/3f6df6da-8aef-4969-9cd1-6fafd3b17d08)
+
+
 ## 购买指导总结
 方便各位快速筛选定位
 
@@ -160,11 +179,11 @@
      SFCloud(35元/100G)、EFCloud(25元/100G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
    
    5）**回国付费套餐**：
-   无
+   EdNovas(30元/100G/月)
 
 2. **有专线节点：** SFCloud、守候网络
 
-3. **有冷门节点：** SFCloud、飞兔云
+3. **有冷门节点：** SFCloud、飞兔云、EdNovas
    
 
 

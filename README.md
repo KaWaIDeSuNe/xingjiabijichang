@@ -115,7 +115,7 @@
 
 新人8折优惠：new
 
-主观评价:EFCloud开的分站，个人体验也很不错，全IEPL专线机场。主流节点速度和延迟都是很不错的，流媒体解锁也比较全面。还有不少不少冷门地区节点
+主观评价:EFCloud开的分站，个人体验也很不错，全IEPL专线机场。主流节点速度和延迟都是很不错的，流媒体解锁也比较全面。还有不少冷门地区节点。
 
 套餐价格:
 <img width="1327" alt="image" src="https://github.com/user-attachments/assets/d78af136-19fe-4b6c-89d6-02abcdfd71e0">

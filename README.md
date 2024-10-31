@@ -27,21 +27,6 @@
 
 有效期至 2024.11.15 23:59
 
-#### 守候网络
-守候网络| ‘’双十一‘’特别优惠活动
-
-一年一度双11火热来袭！为此，我们特别为广大用户准备了以下优惠活动。
-
-1、消费充值手续费全免
-
-2、余额充值双倍赠金活动限时回归
-
-3、活动专属优惠码：11%off
-
-活动有效期: 2024/11/1--2024/11/21
-
-守候网络团队
-2024/10/31
 
 ---
 
@@ -82,23 +67,26 @@
 
 
 ---
-## 三、守候网络(15/月88G)
+## 三、外星云(10/月125G)
 
 
-官网地址:[点击进入](https://my.xn--hwqp2zit2amna.com/auth/register?code=oRHoURDS)
+官网地址:[点击进入](https://aliencloud.net/register?code=mhRp3m2m)
 
-优惠码：10%discount
+机场特色:5G流量免费试用
 
-主观评价:稳定性很不错，带宽很大，他家的0.2x低倍率节点可用性非常高，已经导致1倍节点无人问津，性价比非常高。
+主观评价:稳定性很不错，有免费流量试用，可以试试。
 
 套餐价格:
-<img width="1378" alt="image" src="https://github.com/user-attachments/assets/35adf221-35df-4647-bd73-0f1647efefc8">
+<img width="1014" alt="image" src="https://github.com/user-attachments/assets/fe0a79bf-1112-496f-8b07-674ef85639e7">
+
 
 测速与解锁情况:
-![上海电信@1Gbps (7)](https://github.com/user-attachments/assets/05404488-5ff5-44d0-a86a-7ed167b4730c)
+![外星云测速与解锁](https://github.com/user-attachments/assets/8bd92c32-d912-48c0-b1dd-77733afdb35b)
+
 
 线路分析:
-![线路分析 (6)](https://github.com/user-attachments/assets/d01773e5-e256-40b0-9e05-514a01c51f80)
+![外星云线路分析 (10)](https://github.com/user-attachments/assets/d0d0bd44-94c3-4d3a-9633-c2e73c18dc7f)
+
 
 ---
 
@@ -183,20 +171,20 @@
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-1000G流量)：
    
-   **20块/月以下**：SFCloud(15元/100G)、NieRCloud(15元/155G)、守候网络(15元/88G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)
+   **20块/月以下**：SFCloud(15元/100G)、NieRCloud(15元/155G)、外星云(10元/125G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)
    
-   **20-50块/月**：SFCloud(25元/200G)、NieRCloud(25元/228G)、守候网络(20元/150G)、守候网络(35元/350G)、守候网络(45元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)
+   **20-50块/月**：SFCloud(25元/200G)、NieRCloud(25元/228G)、外星云(20元/250G)、外星云(40元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)
    
    **50块以上/月**：SFCloud(50元/500G)、NieRCloud(56元/558G)
    
     2)**需要大流量月付套餐**(每月1000G以上)：
-     NieRCloud(106.25元/1088G)、守候网络(828年付/1000G/月)、飞兔云(49.9/月1000G)、飞兔云(99.9/月2000G)
+     NieRCloud(106.25元/1088G)、外星云(80/月1000G)、飞兔云(49.9/月1000G)、飞兔云(99.9/月2000G)
    
    3)**需要小流量月付套餐**(每月50G以下)：
    无
    
    4)**需要不限时按量付费套餐**：
-     SFCloud(35元/100G)、EFCloud(25元/100G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
+     SFCloud(35元/100G)、EFCloud(25元/100G)、外星云(15元/50G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
    
    5）**回国付费套餐**：
    EdNovas(30元/100G/月)

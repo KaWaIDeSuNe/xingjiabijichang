@@ -35,15 +35,15 @@
 
 新人8折优惠: new
 
-主观评价: 一直在用的机场，稳定性、性价比各方面都不错。
+主观评价: 延迟非常优秀，最大带宽达到2500Mbps，本人一直在用的机场，稳定性、性价比各方面都不错。
 
 套餐价格:
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/41255f12-f80c-4825-9811-13f70b48bddb">
 
 测速与解锁情况:
-![efc测速](https://github.com/user-attachments/assets/9beb92e7-e5cb-4b06-999b-dfa1ce1baa20)
+![EFCloud_深圳电信_多线程](https://github.com/user-attachments/assets/9ef0ab99-6db7-4a29-9ef9-52c64d6962f8)
 
-![efc解锁](https://github.com/user-attachments/assets/ad4c7b43-1004-4438-bce4-fc731dfe8111)
+![EFCloud_流媒体测试](https://github.com/user-attachments/assets/f12c5892-3b05-43f9-aab4-0c867fd28780)
 
 线路分析:
 ![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)

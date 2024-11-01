@@ -37,6 +37,8 @@
 
 主观评价: 延迟非常优秀，最大带宽达到2500Mbps，本人一直在用的机场，稳定性、性价比各方面都不错。
 
+过境线路：佛山电信（广港专线）、南京移动（中转）
+
 套餐价格:
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/41255f12-f80c-4825-9811-13f70b48bddb">
 

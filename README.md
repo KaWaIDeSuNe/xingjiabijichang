@@ -158,11 +158,6 @@
 套餐价格:
 <img width="1388" alt="image" src="https://github.com/user-attachments/assets/4c92793a-0dab-4142-bd42-1b4221157727">
 
-测速与解锁情况:
-![EdNovas-测速-2024 10 01](https://github.com/user-attachments/assets/361facf3-417b-471b-85b6-fe50091979ca)
-
-![EdNovas-流媒体解锁-2024 10 01](https://github.com/user-attachments/assets/2789f6c7-9bff-4972-87ac-0cc5b426e2a8)
-
 线路分析:
 ![EdNovas-入口 落地-2024 10 01](https://github.com/user-attachments/assets/3f6df6da-8aef-4969-9cd1-6fafd3b17d08)
 

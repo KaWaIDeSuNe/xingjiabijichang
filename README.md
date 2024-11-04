@@ -148,18 +148,26 @@
 ![飞兔云线路分析 (9)](https://github.com/user-attachments/assets/42f972d5-10e1-4c70-98be-3e06870d86fb)
 
 ---
-## 七、EdNovas(30/月200G)
-官网地址:[点击进入](https://ednovas.org/#/register?code=Z7BBcd70)
+## 七、阿拉丁(10/月1380G)
+官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
-机场特色:冷门节点非常多，有回国线路
+机场特色:从03:00到09:00，所有节点0.1倍率。
 
-主观评价: 速度、稳定性、解锁都很一般，只推荐给有冷门节点需求或人在海外需要回国线路的。
+长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
+
+
+主观评价: 最近速度、稳定性、解锁都很不错，还有海外回国线路。
 
 套餐价格:
-<img width="1388" alt="image" src="https://github.com/user-attachments/assets/4c92793a-0dab-4142-bd42-1b4221157727">
+<img width="1277" alt="image" src="https://github.com/user-attachments/assets/e96dd527-024d-4cb8-aef8-c6fc58044566">
+
+测速与解锁情况:
+![上海电信@1Gbps (14)](https://github.com/user-attachments/assets/294d394f-fda7-433a-aee3-559972006dc8)
+
 
 线路分析:
-![EdNovas-入口 落地-2024 10 01](https://github.com/user-attachments/assets/3f6df6da-8aef-4969-9cd1-6fafd3b17d08)
+![线路分析 (9)](https://github.com/user-attachments/assets/804ecabb-80cf-4740-aca9-eaa07373a3c6)
+
 
 
 ## 购买指导总结
@@ -184,7 +192,7 @@
      SFCloud(35元/100G)、EFCloud(25元/100G)、外星云(15元/50G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
    
    5）**回国付费套餐**：
-   EdNovas(30元/100G/月)
+   阿拉丁(10元/100G/月)
 
 2.  **机场线路：**
 

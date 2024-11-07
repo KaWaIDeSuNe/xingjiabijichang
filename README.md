@@ -131,7 +131,7 @@
 ![飞兔云线路分析 (9)](https://github.com/user-attachments/assets/42f972d5-10e1-4c70-98be-3e06870d86fb)
 
 ---
-## 六、阿拉丁(10/月1380G)
+## 六、阿拉丁(10/月138G)
 官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
 机场特色:从03:00到09:00，所有节点0.1倍率。

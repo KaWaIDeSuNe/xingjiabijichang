@@ -39,9 +39,10 @@
 <img width="1329" alt="image" src="https://github.com/user-attachments/assets/41255f12-f80c-4825-9811-13f70b48bddb">
 
 测速与解锁情况:
-![EFCloud_深圳电信_多线程](https://github.com/user-attachments/assets/9ef0ab99-6db7-4a29-9ef9-52c64d6962f8)
+![EFCloud_深圳电信_多线程](https://github.com/user-attachments/assets/b1c01da4-3178-498e-abb6-378726bad5b7)
 
-![EFCloud_流媒体测试](https://github.com/user-attachments/assets/f12c5892-3b05-43f9-aab4-0c867fd28780)
+![EFCloud_流媒体测试](https://github.com/user-attachments/assets/9b1b01c6-a9c8-463d-adf4-499990bd4c73)
+
 
 线路分析:
 ![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)

@@ -166,7 +166,7 @@
 
 ---
 
-## 六、EF Network(9.9/月100G)
+## 七、EF Network(9.9/月100G)
 
 官网地址:[点击进入](www.666.subef.top/#/login?code=ArQFWeH9)
 
@@ -188,9 +188,9 @@
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-1000G流量)：
    
-   **20块/月以下**：NieRCloud(15元/155G)、外星云(10元/125G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)
+   **20块/月以下**：NieRCloud(15元/155G)、外星云(10元/125G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)、EF Network(9.9元/100G)
    
-   **20-50块/月**：NieRCloud(25元/228G)、外星云(20元/250G)、外星云(40元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)
+   **20-50块/月**：NieRCloud(25元/228G)、外星云(20元/250G)、外星云(40元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)、EF Network(20元/320G)
    
    **50块以上/月**：NieRCloud(56元/558G)
    

@@ -140,6 +140,8 @@
 线路分析:
 ![线路分析 (9)](https://github.com/user-attachments/assets/804ecabb-80cf-4740-aca9-eaa07373a3c6)
 
+---
+
 ## 六、西部数据(20/月200G)
 
 官网地址:[点击进入](https://wd-gold.com/aff.php?aff=8893)
@@ -162,6 +164,23 @@
 线路分析:
 ![拓扑测试](https://github.com/user-attachments/assets/9d566115-2bd1-4958-a380-0cef7fc8e403)
 
+---
+
+## 六、EF Network(9.9/月100G)
+
+官网地址:[点击进入](www.666.subef.top/#/login?code=ArQFWeH9)
+
+机场特色:10G流量试用
+
+主观评价: 带宽速度数一数二，可以改海外ip，挺不错的。
+
+最大带宽：5000Mbps
+
+
+套餐价格:
+<img width="1387" alt="image" src="https://github.com/user-attachments/assets/4ee9e938-61f0-4a44-9c1b-d479fa1296c9">
+
+---
 
 ## 购买指导总结
 方便各位快速筛选定位

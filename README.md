@@ -168,7 +168,7 @@
 
 ## 七、EF Network(9.9/月100G)
 
-官网地址:[点击进入]([www](https://666.subef.top/#/login?code=ArQFWeH9)
+官网地址:[点击进入](https://666.subef.top/#/login?code=ArQFWeH9)
 
 机场特色:10G流量试用
 

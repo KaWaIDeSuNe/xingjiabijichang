@@ -24,12 +24,15 @@
 
 新人8折优惠: new
 
-主观评价: 延迟非常优秀，最大带宽达到2500Mbps，本人一直在用的机场，稳定性、性价比各方面都不错。
+主观评价: 延迟非常优秀，测得最大带宽达到2500Mbps，本人一直在用的机场，稳定性、性价比各方面都不错。
 
 过境线路：佛山电信（广港专线）、南京移动（中转）、广州移动（中转）
 
+最大带宽：机场主宣称最大带宽可达5000Mbps，但由于测试机的瓶颈，只测的2500Mbps。
+
 套餐价格:
-<img width="1329" alt="image" src="https://github.com/user-attachments/assets/41255f12-f80c-4825-9811-13f70b48bddb">
+<img width="1245" alt="image" src="https://github.com/user-attachments/assets/b8805778-2c93-4172-af39-87631a0a18bf">
+
 
 测速与解锁情况:
 ![EFCloud_深圳电信_多线程](https://github.com/user-attachments/assets/b1c01da4-3178-498e-abb6-378726bad5b7)

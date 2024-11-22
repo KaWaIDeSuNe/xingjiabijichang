@@ -35,7 +35,8 @@
 
 
 测速与解锁情况:
-![EFCloud_深圳电信_多线程](https://github.com/user-attachments/assets/b1c01da4-3178-498e-abb6-378726bad5b7)
+![photo_2024-11-22 18 04 37](https://github.com/user-attachments/assets/6e236423-b35a-4279-ac7e-0babcb29a4f2)
+
 
 ![EFCloud_流媒体测试](https://github.com/user-attachments/assets/9b1b01c6-a9c8-463d-adf4-499990bd4c73)
 

@@ -130,7 +130,7 @@
 长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
 
 
-主观评价: 最近速度、稳定性、解锁都很不错，还有海外回国线路。
+主观评价: 最近速度、稳定性、解锁都很不错。
 
 套餐价格:
 <img width="1277" alt="image" src="https://github.com/user-attachments/assets/e96dd527-024d-4cb8-aef8-c6fc58044566">
@@ -142,33 +142,10 @@
 线路分析:
 ![线路分析 (9)](https://github.com/user-attachments/assets/804ecabb-80cf-4740-aca9-eaa07373a3c6)
 
----
-
-## 六、西部数据(20/月200G)
-
-官网地址:[点击进入](https://wd-gold.com/aff.php?aff=8893)
-
-主观评价: 教科书级别的机场，三大专线齐聚，各方面都非常优秀，其中延迟最为出色，广东用户连接港台节点，只有十几毫秒的延迟。
-
-过境线路：深圳联通(广港专线) + 上海移动(沪日专线) + 深圳联通(京德专线)
-
-最大带宽：宣称500Mbps，实为反向虚标，可轻松到达2000Mbps
-
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/980d77ee-3aa1-498c-8b1d-36479941a064)
-
-测速与解锁情况:
-![辽宁联通_多线程](https://github.com/user-attachments/assets/0600f354-c337-46b9-a9e6-852d139a1027)
-
-![流媒体测试 (1)](https://github.com/user-attachments/assets/2c6ecf31-40f0-495e-90be-cb3bc869ed5b)
-
-线路分析:
-![拓扑测试](https://github.com/user-attachments/assets/9d566115-2bd1-4958-a380-0cef7fc8e403)
 
 ---
 
-## 七、EF Network(9.9/月100G)
+## 六、EF Network(9.9/月100G)
 
 官网地址:[点击进入](https://666.subef.top/#/login?code=ArQFWeH9)
 

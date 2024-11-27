@@ -68,7 +68,7 @@
 
 机场特色:5G流量免费试用，签到送流量
 
-主观评价:稳定性很不错，有免费流量试用，可以试试。
+主观评价:稳定性很不错，有免费流量试用，经群友反馈工单不回复，注意风险。
 
 套餐价格:
 <img width="1014" alt="image" src="https://github.com/user-attachments/assets/fe0a79bf-1112-496f-8b07-674ef85639e7">

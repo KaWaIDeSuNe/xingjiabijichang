@@ -125,8 +125,6 @@
 ## 六、阿拉丁(10/月138G)
 官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
-机场特色:从03:00到09:00，所有节点0.1倍率。
-
 长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
 
 

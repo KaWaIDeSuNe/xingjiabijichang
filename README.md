@@ -212,3 +212,7 @@ iOS：apple store搜索Shadowrocket下载
 ---
 如果您有任何需求、问题或建议，欢迎提出。
 
+## Star 历史
+
+![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
+

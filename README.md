@@ -63,30 +63,8 @@
 
 
 ---
-## 三、外星云(10/月125G)
 
-
-官网地址:[点击进入](https://aliencloud.net/register?code=mhRp3m2m)
-
-机场特色:5G流量免费试用，签到送流量
-
-主观评价:稳定性很不错，有免费流量试用，经群友反馈工单不回复，注意风险。
-
-套餐价格:
-<img width="1014" alt="image" src="https://github.com/user-attachments/assets/fe0a79bf-1112-496f-8b07-674ef85639e7">
-
-
-测速与解锁情况:
-![外星云测速与解锁](https://github.com/user-attachments/assets/8bd92c32-d912-48c0-b1dd-77733afdb35b)
-
-
-线路分析:
-![外星云线路分析 (10)](https://github.com/user-attachments/assets/d0d0bd44-94c3-4d3a-9633-c2e73c18dc7f)
-
-
----
-
-## 四、OuO Network(10/月100G)
+## 三、OuO Network(10/月100G)
 
 官网地址:[点击进入](https://dash.ouonetwork.com/register?aff=BoD6QFCW)
 
@@ -105,7 +83,7 @@
 
 ---
 
-## 五、飞兔云(9.9/月118G)
+## 四、飞兔云(9.9/月118G)
 
 官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
 
@@ -124,7 +102,7 @@
 ![飞兔云线路分析 (9)](https://github.com/user-attachments/assets/42f972d5-10e1-4c70-98be-3e06870d86fb)
 
 ---
-## 六、阿拉丁(10/月138G)
+## 五、阿拉丁(10/月138G)
 官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
 长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
@@ -197,20 +175,20 @@
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-1000G流量)：
    
-   **20块/月以下**：NieRCloud(15元/155G)、外星云(10元/125G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)、EF Network(9.9元/100G)
+   **20块/月以下**：NieRCloud(15元/155G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)、EF Network(9.9元/100G)
    
-   **20-50块/月**：NieRCloud(25元/228G)、外星云(20元/250G)、外星云(40元/500G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)、EF Network(20元/320G)、CatCloud(26元/300G)
+   **20-50块/月**：NieRCloud(25元/228G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)、EF Network(20元/320G)、CatCloud(26元/300G)
    
    **50块以上/月**：NieRCloud(56元/558G)
    
     2)**需要大流量月付套餐**(每月1000G以上)：
-     NieRCloud(106.25元/1088G)、外星云(80/月1000G)、飞兔云(49.9/月1000G)、飞兔云(99.9/月2000G)
+     NieRCloud(106.25元/1088G)、飞兔云(49.9/月1000G)、飞兔云(99.9/月2000G)
    
    3)**需要小流量月付套餐**(每月50G以下)：
    无
    
    4)**需要不限时按量付费套餐**：
-     EFCloud(25元/100G)、外星云(15元/50G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
+     EFCloud(25元/100G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
    
    5）**回国付费套餐**：
 
@@ -218,13 +196,13 @@
 
     1)**专线机场：** 
 
-    2)**中转机场：** 飞兔云、阿拉丁、OuO Network、外星云、NieRCloud
+    2)**中转机场：** 飞兔云、阿拉丁、OuO Network、NieRCloud
 
     3)**专线+中转机场：** EFCloud、CatCloud
 
 3. **有冷门节点：** 飞兔云
    
-4. **有免费的流量试用**： 外星云(5G)
+4. **有免费的流量试用**： EF Network
    
 
 

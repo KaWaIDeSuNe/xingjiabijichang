@@ -161,6 +161,34 @@
 
 ---
 
+## 七、CatCloud(26/月300G)
+
+官网地址:[点击进入](https://www.catssr.host/#/register?code=pjLUUfzm)
+
+主观评价: 起步价有点贵，但延迟和带宽都非常不错，机场主比较活跃。
+
+过境线路：广州移动（广港专线）、广州移动（中转）、安徽移动（中转）
+
+套餐价格:
+![image](https://github.com/user-attachments/assets/e2cddaea-d5c8-43d4-a843-a4a24e00e4c5)
+
+
+
+测速与解锁情况:
+![cat cloud_珠海联通_多线程](https://github.com/user-attachments/assets/c122b4ef-3e7e-4499-ba63-978e17ef7011)
+
+
+
+![cat cloud_流媒体测试](https://github.com/user-attachments/assets/b3ab2503-325c-4f84-9766-0ac826f0e698)
+
+
+
+线路分析:
+![cat cloud_拓扑测试](https://github.com/user-attachments/assets/d11cad41-9dd9-412f-b44f-0d56255a27fd)
+
+
+---
+
 ## 购买指导总结
 方便各位快速筛选定位
 

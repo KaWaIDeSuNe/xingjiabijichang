@@ -20,7 +20,7 @@
 ---
 
 ## 一、EFCloud(10/月200G)
-官网地址:[点击进入](https://inv.easyfastcloud.com/#/register?code=e6bMZ2fK)
+官网地址:[点击进入](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7)
 
 新人8折优惠: new
 

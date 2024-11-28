@@ -50,6 +50,8 @@
 
 主观评价:发挥依旧稳定，节点质量没得说，速度解锁都是极其优秀的水平。
 
+过境线路：广东移动（中转）、江苏移动（中转）、上海电信（中转）
+
 套餐价格:
 <img width="1126" alt="image" src="https://github.com/user-attachments/assets/3bb00574-2a8c-4522-8e77-ad8a15afd94b">
 

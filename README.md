@@ -194,7 +194,7 @@
 
     1)**专线机场：** 
 
-    2)**中转机场：** 飞兔云、阿拉丁、OuO Network、NieRCloud
+    2)**中转机场：** 飞兔云、阿拉丁、OuO Network、NieRCloud、EF Network
 
     3)**专线+中转机场：** EFCloud、CatCloud
 

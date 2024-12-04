@@ -36,9 +36,8 @@
 ![photo_2024-11-22 18 04 37](https://github.com/user-attachments/assets/6e236423-b35a-4279-ac7e-0babcb29a4f2)
 
 
-![EFCloud_流媒体测试](https://github.com/user-attachments/assets/9b1b01c6-a9c8-463d-adf4-499990bd4c73)
+![2024-12-04T18-28-39 778-ID-27d5482e](https://github.com/user-attachments/assets/57e69d3e-85f2-4503-b906-54361c9d4db3)
 
-![photo_2024-12-04 18 11 09](https://github.com/user-attachments/assets/f58d2319-9f1a-4808-be67-1f4b9ec00de1)
 
 线路分析:
 ![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)

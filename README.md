@@ -77,7 +77,8 @@
 
 测速与解锁情况:
 ![telegram-cloud-photo-size-1-5042194977786014847-y](https://github.com/user-attachments/assets/83b0047b-2561-49df-bf8b-42cf1307f18e)
-![telegram-cloud-photo-size-5-6233225216109168995-w](https://github.com/user-attachments/assets/ad96802c-ef70-47ff-a469-55fa4b805942)
+![2024-12-04T19-17-47 210-ID-27d5482e](https://github.com/user-attachments/assets/7d1ca7b3-9d33-4946-b277-cd198e0f2362)
+
 
 
 线路分析:

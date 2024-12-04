@@ -64,22 +64,24 @@
 
 ---
 
-## 三、OuO Network(10/月100G)
+## 三、Starlight CLOUD(10/月128G)
 
-官网地址:[点击进入](https://dash.ouonetwork.com/register?aff=BoD6QFCW)
+官网地址:[点击进入](https://xcssr.com/#/register?code=qnZDkglf)
 
 
 
-主观评价:US节点自带解锁p站会员，解锁优秀，稳定性很不错，性价比挺高。
+主观评价: 一家小机场，稳定性、性价比不错，不同价格最大带宽不一样。
 
 套餐价格:
-<img width="1410" alt="image" src="https://github.com/user-attachments/assets/3d240346-6d6d-42f4-84c0-94642466c1ba">
+<img width="1215" alt="image" src="https://github.com/user-attachments/assets/1448c575-3722-4a78-b5a0-b44feefca218">
 
 测速与解锁情况:
-![南京电信@2000M](https://github.com/user-attachments/assets/8e5f6ea3-8cf5-4f5c-93a1-7e8194ca3d6a)
+![telegram-cloud-photo-size-1-5042194977786014847-y](https://github.com/user-attachments/assets/83b0047b-2561-49df-bf8b-42cf1307f18e)
+
 
 线路分析:
-![线路分析 (2)](https://github.com/user-attachments/assets/648608a5-6096-4a9d-b3fd-38a23be1d74d)
+![2024-12-04T17-10-35 165-ID-27d5482e](https://github.com/user-attachments/assets/ef80d70c-85bc-4c01-b282-f2a4d23b6bf6)
+
 
 ---
 

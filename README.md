@@ -38,6 +38,7 @@
 
 ![EFCloud_流媒体测试](https://github.com/user-attachments/assets/9b1b01c6-a9c8-463d-adf4-499990bd4c73)
 
+![photo_2024-12-04 18 11 09](https://github.com/user-attachments/assets/f58d2319-9f1a-4808-be67-1f4b9ec00de1)
 
 线路分析:
 ![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)
@@ -77,6 +78,7 @@
 
 测速与解锁情况:
 ![telegram-cloud-photo-size-1-5042194977786014847-y](https://github.com/user-attachments/assets/83b0047b-2561-49df-bf8b-42cf1307f18e)
+![telegram-cloud-photo-size-5-6233225216109168995-w](https://github.com/user-attachments/assets/ad96802c-ef70-47ff-a469-55fa4b805942)
 
 
 线路分析:

@@ -28,6 +28,8 @@
 
 过境线路：佛山电信（广港专线）、南京移动（中转）、广州移动（中转）
 
+试用订阅地址：<https://fctahfbxlk.eastasia.cloudapp.azure.com/queue/list?token=d90fce10e19b802829399a641d667679>
+
 套餐价格:
 <img width="1245" alt="image" src="https://github.com/user-attachments/assets/b8805778-2c93-4172-af39-87631a0a18bf">
 

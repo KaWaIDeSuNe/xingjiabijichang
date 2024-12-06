@@ -5,6 +5,8 @@
 
 如果对于稳定性也没有特殊的需求，可以参考我的另一篇文档[低价机场推荐](https://github.com/KaWaIDeSuNe/dijiajichang) 最低仅一包辣条的价格。
 
+还有免费的订阅地址分享：[免费订阅地址分享](https://github.com/KaWaIDeSuNe/dijiajichang/blob/main/free.md) 供大家临时使用。
+
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/xingjiabijichang)，您的支持是我更新的动力！
 
 ![](https://komarev.com/ghpvc/?username=xingjiabijichang)

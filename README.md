@@ -70,7 +70,7 @@
 
 
 
-主观评价: 一家小机场，稳定性、性价比不错，不同价格最大带宽不一样。
+主观评价: 一家小机场，稳定性、使用起来挺不错的，不同价格最大带宽不一样，注意最小倍率是1.5。
 
 套餐价格:
 <img width="1215" alt="image" src="https://github.com/user-attachments/assets/1448c575-3722-4a78-b5a0-b44feefca218">

@@ -66,7 +66,7 @@
 
 ## 三、Starlight CLOUD(10/月128G)
 
-官网地址:[点击进入](https://xcssr.com/#/register?code=qnZDkglf)
+官网地址:[点击进入](www.xcssr.com/#/?code=qnZDkglf)
 
 
 

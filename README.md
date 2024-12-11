@@ -101,16 +101,15 @@
 主观评价: 整体质量非常不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
 
 套餐价格:
-![飞兔云_深圳电信_多线程](https://github.com/user-attachments/assets/081203b5-6abe-463e-b3f3-c16980e84eba)
-![飞兔云_流媒体测试](https://github.com/user-attachments/assets/0b04086a-e9e1-4de7-a48d-f24a2d9d7727)
 
 <img width="979" alt="image" src="https://github.com/user-attachments/assets/a0f5884b-b7cc-4c72-829f-e82be04a2bbd">
 
 测速与解锁情况:
-![飞兔云测速与解锁上海电信@1Gbps (8)](https://github.com/user-attachments/assets/7a530853-a3f7-4f9e-bd2a-51283867f68f)
+![飞兔云_深圳电信_多线程](https://github.com/user-attachments/assets/081203b5-6abe-463e-b3f3-c16980e84eba)
+![飞兔云_流媒体测试](https://github.com/user-attachments/assets/0b04086a-e9e1-4de7-a48d-f24a2d9d7727)
 
 线路分析:
-![飞兔云线路分析 (9)](https://github.com/user-attachments/assets/42f972d5-10e1-4c70-98be-3e06870d86fb)
+![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
 
 ---
 ## 五、阿拉丁(10/月138G)

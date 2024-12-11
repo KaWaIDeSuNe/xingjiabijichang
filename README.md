@@ -104,7 +104,7 @@
 
 套餐价格:
 
-<img width="979" alt="image" src="https://github.com/user-attachments/assets/a0f5884b-b7cc-4c72-829f-e82be04a2bbd">
+![飞兔云_价格表](https://github.com/user-attachments/assets/dbd379d8-e5f1-4ffe-8af7-f4e2624325fe)
 
 测速与解锁情况:
 ![飞兔云_深圳电信_多线程](https://github.com/user-attachments/assets/081203b5-6abe-463e-b3f3-c16980e84eba)

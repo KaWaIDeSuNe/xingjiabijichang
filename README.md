@@ -101,7 +101,9 @@
 主观评价: 整体质量非常不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
 
 套餐价格:
-<img width="1028" alt="image" src="https://github.com/user-attachments/assets/f303cc5a-d116-4590-8284-0128dff512ae">
+![飞兔云_深圳电信_多线程](https://github.com/user-attachments/assets/081203b5-6abe-463e-b3f3-c16980e84eba)
+![飞兔云_流媒体测试](https://github.com/user-attachments/assets/0b04086a-e9e1-4de7-a48d-f24a2d9d7727)
+
 <img width="979" alt="image" src="https://github.com/user-attachments/assets/a0f5884b-b7cc-4c72-829f-e82be04a2bbd">
 
 测速与解锁情况:

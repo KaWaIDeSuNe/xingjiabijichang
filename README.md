@@ -103,8 +103,8 @@
 过境线路：深圳移动（广港专线）、佛山移动（中转）
 
 套餐价格:
+![Screenshot_2024-12-11_05-44-29](https://github.com/user-attachments/assets/eca8bd3a-7c28-41ff-a12b-bf6032e0a73d)
 
-![飞兔云_价格表](https://github.com/user-attachments/assets/dbd379d8-e5f1-4ffe-8af7-f4e2624325fe)
 
 测速与解锁情况:
 ![飞兔云_深圳电信_多线程](https://github.com/user-attachments/assets/081203b5-6abe-463e-b3f3-c16980e84eba)

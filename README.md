@@ -67,30 +67,7 @@
 
 ---
 
-## 三、Starlight CLOUD(10/月128G)
-
-官网地址:[点击进入](https://www.xcssr.com/#/?code=qnZDkglf)
-
-
-
-主观评价: 一家小机场，稳定性、使用起来挺不错的，不同价格最大带宽不一样，注意最小倍率是1.5。
-
-套餐价格:
-<img width="1215" alt="image" src="https://github.com/user-attachments/assets/1448c575-3722-4a78-b5a0-b44feefca218">
-
-测速与解锁情况:
-![telegram-cloud-photo-size-1-5042194977786014847-y](https://github.com/user-attachments/assets/83b0047b-2561-49df-bf8b-42cf1307f18e)
-![2024-12-04T19-17-47 210-ID-27d5482e](https://github.com/user-attachments/assets/7d1ca7b3-9d33-4946-b277-cd198e0f2362)
-
-
-
-线路分析:
-![2024-12-04T17-10-35 165-ID-27d5482e](https://github.com/user-attachments/assets/ef80d70c-85bc-4c01-b282-f2a4d23b6bf6)
-
-
----
-
-## 四、飞兔云(9.9/月118G)
+## 三、飞兔云(9.9/月118G)
 
 官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
 
@@ -112,7 +89,7 @@
 ![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
 
 ---
-## 五、阿拉丁(10/月138G)
+## 四、阿拉丁(10/月138G)
 官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
 长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
@@ -133,7 +110,7 @@
 
 ---
 
-## 六、EF Network(9.9/月100G)
+## 五、EF Network(9.9/月100G)
 
 官网地址:[点击进入](https://666.subef.top/#/login?code=ArQFWeH9)
 
@@ -149,7 +126,7 @@
 
 ---
 
-## 七、CatCloud(26/月300G)
+## 六、CatCloud(26/月300G)
 
 官网地址:[点击进入](https://www.catssr.host/#/register?code=pjLUUfzm)
 

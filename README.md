@@ -26,6 +26,11 @@
 
 过境线路：佛山电信（广港专线）、南京移动（中转）、广州移动（中转）
 
+具有竞争力的套餐：
+1️⃣ 200GB/月（约0.04元/GB）
+2️⃣ 不限时100GB（约0.2元/GB）
+
+
 套餐价格:
 <img width="1245" alt="image" src="https://github.com/user-attachments/assets/b8805778-2c93-4172-af39-87631a0a18bf">
 

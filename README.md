@@ -185,7 +185,7 @@
 
     2)**中转机场：** 飞兔云、阿拉丁、OuO Network、NieRCloud、EF Network
 
-    3)**专线+中转机场：** EFCloud、CatCloud
+    3)**专线+中转机场：** EFCloud、CatCloud、飞兔云
 
 3. **有冷门节点：** 飞兔云
    

@@ -162,9 +162,9 @@
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-1000G流量)：
    
-   **20块/月以下**：NieRCloud(15元/155G)、OuO Network(10元/100G)、OuO Network(18元/200G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)、EF Network(9.9元/100G)
+   **20块/月以下**：NieRCloud(15元/155G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)、EF Network(9.9元/100G)
    
-   **20-50块/月**：NieRCloud(25元/228G)、OuO Network(43元/500G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)、EF Network(20元/320G)、CatCloud(26元/300G)
+   **20-50块/月**：NieRCloud(25元/228G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)、EF Network(20元/320G)、CatCloud(26元/300G)
    
    **50块以上/月**：NieRCloud(56元/558G)
    
@@ -183,7 +183,7 @@
 
     1)**专线机场：** 
 
-    2)**中转机场：** 飞兔云、阿拉丁、OuO Network、NieRCloud、EF Network
+    2)**中转机场：** 阿拉丁、NieRCloud、EF Network
 
     3)**专线+中转机场：** EFCloud、CatCloud、飞兔云
 

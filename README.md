@@ -156,6 +156,32 @@
 
 ---
 
+## 七、极速云(9.9/月100G)
+
+官网地址:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
+
+主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
+
+过境线路：
+
+
+套餐价格:
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/acb1e717-6c93-4172-a0a5-7a6bfb007546" />
+
+
+
+
+测速与解锁情况:
+![上海电信@1Gbps (18)](https://github.com/user-attachments/assets/3165d6bb-6eb4-4cd9-8389-e3e9c500bcee)
+
+
+
+线路分析:
+![线路分析 (12)](https://github.com/user-attachments/assets/508ef00d-dd9b-408f-9b92-aa4133b70e6f)
+
+
+---
+
 ## 购买指导总结
 方便各位快速筛选定位
 

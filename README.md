@@ -89,7 +89,7 @@
 ![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
 
 ---
-## 四、阿拉丁(10/月138G)
+## 四、阿拉丁(18/月300G)
 官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
 长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。

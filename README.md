@@ -158,7 +158,7 @@
 
 ## 七、极速云(9.9/月100G)
 
-官网地址:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
+官网地址:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
 
 主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
 

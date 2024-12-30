@@ -175,6 +175,9 @@
 套餐价格:
 <img width="1387" alt="image" src="https://github.com/user-attachments/assets/4ee9e938-61f0-4a44-9c1b-d479fa1296c9">
 
+ping图：
+![image](https://github.com/user-attachments/assets/a95f7aae-96c1-49d4-8cd5-8c2fb680ff3c)
+
 线路分析:
 
 ![telegram-cloud-photo-size-5-6309660799160927156-w](https://github.com/user-attachments/assets/421dbb07-0aee-4b8e-a967-5a7346f7c946)

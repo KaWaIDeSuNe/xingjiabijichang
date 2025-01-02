@@ -174,29 +174,10 @@ ping图：
 线路分析:
 ![线路分析 (5)](https://github.com/user-attachments/assets/d23c8804-4566-4ff8-a1af-42f8e0333938)
 
----
-
-## 六、阿拉丁(18/月300G)
-官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
-
-长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
-
-
-主观评价: 最近速度、稳定性、解锁都很不错。
-
-套餐价格:
-<img width="1277" alt="image" src="https://github.com/user-attachments/assets/e96dd527-024d-4cb8-aef8-c6fc58044566">
-
-测速与解锁情况:
-![上海电信@1Gbps (14)](https://github.com/user-attachments/assets/294d394f-fda7-433a-aee3-559972006dc8)
-
-
-线路分析:
-![线路分析 (9)](https://github.com/user-attachments/assets/804ecabb-80cf-4740-aca9-eaa07373a3c6)
 
 ---
 
-## 七、CatCloud(26/月300G)
+## 六、CatCloud(26/月300G)
 
 官网地址:[点击进入](https://www.catssr.host/#/register?code=pjLUUfzm)
 
@@ -226,7 +207,7 @@ ping图：
 
 ---
 
-## 八、极速云(9.9/月100G)
+## 七、极速云(9.9/月100G)
 
 官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 
@@ -281,9 +262,9 @@ ping图：
 
     1)**专线机场：** 
 
-    2)**中转机场：** 阿拉丁、NieRCloud、EF Network
+    2)**中转机场：** NieRCloud、EF Network、CatCloud、动力港
 
-    3)**专线+中转机场：** EFCloud、CatCloud、飞兔云
+    3)**专线+中转机场：** EFCloud、CatCloud、飞兔云、极速云
 
 3. **有冷门节点：** 飞兔云
    

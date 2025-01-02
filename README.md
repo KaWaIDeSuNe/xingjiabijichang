@@ -232,6 +232,23 @@ ping图：
 线路分析:
 ![线路分析 (12)](https://github.com/user-attachments/assets/508ef00d-dd9b-408f-9b92-aa4133b70e6f)
 
+---
+
+## 八、阿拉丁(18/月300G)
+官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
+
+长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
+
+主观评价: 最近速度、稳定性、解锁都很不错。
+
+套餐价格:
+<img width="1277" alt="image" src="https://github.com/user-attachments/assets/e96dd527-024d-4cb8-aef8-c6fc58044566">
+
+测速与解锁情况:
+![上海电信@1Gbps (14)](https://github.com/user-attachments/assets/294d394f-fda7-433a-aee3-559972006dc8)
+
+线路分析:
+![线路分析 (9)](https://github.com/user-attachments/assets/804ecabb-80cf-4740-aca9-eaa07373a3c6)
 
 ---
 

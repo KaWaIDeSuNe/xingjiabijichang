@@ -53,6 +53,20 @@
 【9折优惠】注：特惠套餐不能使用，优惠码：JSY9
 
 ---
+#### 秒连云
+
+元旦优惠 时间：即时-2025年1月20日23:59
+
+80折优惠码：MLY-80   （5元套餐不参与）
+购买月付/不限时使用    活动中
+
+75折优惠码：MLY-75
+购买半年付使用  活动中
+
+68折优惠码：MLY-68
+购买 年付使用  活动中
+
+---
 
 #### NieRCloud
 优惠公告
@@ -259,6 +273,27 @@ ping图：
 线路分析:
 ![线路分析 (9)](https://github.com/user-attachments/assets/804ecabb-80cf-4740-aca9-eaa07373a3c6)
 
+---
+
+## 九、秒连云(8/月120G)
+官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
+
+
+过境线路：江苏移动（中转）、湖北移动（中转）
+
+主观点评：质量还不错，速度和解锁都非常好，稳定性也很好。
+
+套餐价格:
+<img width="1321" alt="image" src="https://github.com/user-attachments/assets/16b3f4dd-88c9-4771-855f-78f376e20163">
+
+测速与解锁情况:
+![telegram-cloud-photo-size-5-6235477015922853352-w](https://github.com/user-attachments/assets/bf80d0c6-5678-4412-b403-5b9fcd528919)
+
+
+![2024-12-05T10-29-53 586-ID-27d5482e](https://github.com/user-attachments/assets/48e46bf2-824d-4fe9-a56d-f80c2b0c524d)
+
+线路分析:
+![线路分析 (6)](https://github.com/user-attachments/assets/9091b628-ae11-4840-bb75-21d09087966c)
 ---
 
 ## 购买指导总结

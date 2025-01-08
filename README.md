@@ -140,9 +140,6 @@
 
 家宽节点：马来西亚
 
-最大带宽：5000Mbps
-
-
 套餐价格:
 <img width="1387" alt="image" src="https://github.com/user-attachments/assets/4ee9e938-61f0-4a44-9c1b-d479fa1296c9">
 

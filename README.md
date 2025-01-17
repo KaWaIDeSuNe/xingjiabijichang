@@ -206,7 +206,8 @@ ping图：
 ---
 
 ## 七、阿拉丁(18/月300G)
-官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
+官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
+
 
 长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
 

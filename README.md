@@ -44,43 +44,11 @@
 购买 年付使用  活动中
 
 
----
-
-## 一、EFCloud(10/月200G)
-官网地址:[点击进入](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7)
-
-新人8折优惠: new
-
-主观评价: ~~延迟非常优秀，测得最大带宽达到5000Mbps，本人一直在用的机场，稳定性、性价比各方面都不错。~~ （最近此机场购买人数过多稳定性不太好，请暂时选择其他机场，）
-
-过境线路：佛山电信（广港专线）、南京移动（中转）、广州移动（中转）
-
-具有竞争力的套餐：
-1️⃣ 200GB/月（约0.04元/GB）
-2️⃣ 不限时100GB（约0.2元/GB）
-
-
-套餐价格:
-<img width="1245" alt="image" src="https://github.com/user-attachments/assets/b8805778-2c93-4172-af39-87631a0a18bf">
-
-20250115ping图：
-![image](https://github.com/user-attachments/assets/989f23db-cc22-47c4-b17f-be97964b425d)
-
-
-测速与解锁情况:
-![photo_2024-11-22 18 04 37](https://github.com/user-attachments/assets/6e236423-b35a-4279-ac7e-0babcb29a4f2)
-
-
-![2024-12-04T18-28-39 778-ID-27d5482e](https://github.com/user-attachments/assets/57e69d3e-85f2-4503-b906-54361c9d4db3)
-
-
-线路分析:
-![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)
 
 
 ---
 
-## 二、飞兔云(9.9/月118G)
+## 一、飞兔云(9.9/月118G)
 
 官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=C0ZvbxgX)
 
@@ -101,6 +69,40 @@
 线路分析:
 ![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
 
+
+---
+
+## 二、EFCloud(10/月200G)
+官网地址:[点击进入](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7)
+
+新人8折优惠: new
+
+主观评价: 延迟非常优秀，测得最大带宽达到5000Mbps，本人一直在用的机场，性价比各方面都不错，不过最近稳定性不太好，台湾一直连不上。 
+
+过境线路：佛山电信（广港专线）、南京移动（中转）、广州移动（中转）
+
+具有竞争力的套餐：
+1️⃣ 200GB/月（约0.04元/GB）
+2️⃣ 不限时100GB（约0.2元/GB）
+
+
+套餐价格:
+<img width="1245" alt="image" src="https://github.com/user-attachments/assets/b8805778-2c93-4172-af39-87631a0a18bf">
+
+20250117ping图：
+![image](https://github.com/user-attachments/assets/142dde24-6a14-4b58-8946-301baaf1d833)
+
+
+
+测速与解锁情况:
+![photo_2024-11-22 18 04 37](https://github.com/user-attachments/assets/6e236423-b35a-4279-ac7e-0babcb29a4f2)
+
+
+![2024-12-04T18-28-39 778-ID-27d5482e](https://github.com/user-attachments/assets/57e69d3e-85f2-4503-b906-54361c9d4db3)
+
+
+线路分析:
+![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)
 ---
 
 ## 三、动力港(8/月100G)
@@ -170,39 +172,10 @@ ping图：
 ![线路分析 (5)](https://github.com/user-attachments/assets/d23c8804-4566-4ff8-a1af-42f8e0333938)
 
 
----
-
-## 六、CatCloud(26/月300G)
-
-官网地址:[点击进入](https://www.catssr.host/#/register?code=pjLUUfzm)
-
-主观评价: 一家小机场，起步价有点贵，但延迟和带宽都非常不错，机场主比较活跃，速度非常平稳。
-
-过境线路：广州移动（广港专线）、广州移动（中转）、安徽移动（中转）
-
-最大带宽：5000Mbps
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/e2cddaea-d5c8-43d4-a843-a4a24e00e4c5)
-
-
-
-测速与解锁情况:
-![cat cloud_珠海联通_多线程](https://github.com/user-attachments/assets/c122b4ef-3e7e-4499-ba63-978e17ef7011)
-
-
-
-![cat cloud_流媒体测试](https://github.com/user-attachments/assets/b3ab2503-325c-4f84-9766-0ac826f0e698)
-
-
-
-线路分析:
-![cat cloud_拓扑测试](https://github.com/user-attachments/assets/d11cad41-9dd9-412f-b44f-0d56255a27fd)
-
 
 ---
 
-## 七、极速云(9.9/月100G)
+## 六、极速云(9.9/月100G)
 
 官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 
@@ -229,7 +202,7 @@ ping图：
 
 ---
 
-## 八、阿拉丁(18/月300G)
+## 七、阿拉丁(18/月300G)
 官网地址:[点击进入](https://www.aladingnet.com/register?aff=Xbkrk4U4K9)
 
 长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
@@ -247,7 +220,7 @@ ping图：
 
 ---
 
-## 九、秒连云(8/月120G)
+## 八、秒连云(8/月120G)
 官网地址:[点击进入](https://mly01.miaolianyun.my/#/register?code=WGzSRoZR)
 
 

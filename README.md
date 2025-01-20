@@ -209,7 +209,7 @@ ping图：
 
 ---
 
-## 六、阿拉丁(18/月300G)
+## 六、阿拉丁(10/月158G)
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
 
@@ -218,7 +218,7 @@ ping图：
 主观评价: 最近速度、稳定性、解锁都很不错。
 
 套餐价格:
-<img width="1277" alt="image" src="https://github.com/user-attachments/assets/e96dd527-024d-4cb8-aef8-c6fc58044566">
+![image](https://github.com/user-attachments/assets/3a89581a-4d23-40e7-82eb-58a8b3286686)
 
 测速与解锁情况:
 ![上海电信@1Gbps (14)](https://github.com/user-attachments/assets/294d394f-fda7-433a-aee3-559972006dc8)

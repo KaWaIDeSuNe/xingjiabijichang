@@ -194,7 +194,42 @@ ping图：
 
 线路分析:
 ![线路分析 (6)](https://github.com/user-attachments/assets/9091b628-ae11-4840-bb75-21d09087966c)
+
 ---
+## 八、EFCloud(10/月200G)
+
+官网地址1:[点击进入](https://www.efcloud3.cc/register?code=HwwBaKx7)
+
+官网地址2:[点击进入](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7)
+
+新人8折优惠: new
+
+主观评价: ~延迟非常优秀，测得最大带宽达到5000Mbps，本人一直在用的机场，性价比各方面都不错。~（不过最近稳定性不太好，香港、台湾连不上了，有跑路的风险，请暂时选择其他机场。 ）
+
+过境线路：佛山电信（广港专线）、南京移动（中转）、广州移动（中转）
+
+具有竞争力的套餐：
+1️⃣ 200GB/月（约0.04元/GB）
+2️⃣ 不限时100GB（约0.2元/GB）
+
+
+套餐价格:
+<img width="1245" alt="image" src="https://github.com/user-attachments/assets/b8805778-2c93-4172-af39-87631a0a18bf">
+
+20250120ping图：
+![image](https://github.com/user-attachments/assets/cbc1e44d-d006-43e2-abbc-2b4d64901e6c)
+
+
+
+测速与解锁情况:
+![photo_2024-11-22 18 04 37](https://github.com/user-attachments/assets/6e236423-b35a-4279-ac7e-0babcb29a4f2)
+
+
+![2024-12-04T18-28-39 778-ID-27d5482e](https://github.com/user-attachments/assets/57e69d3e-85f2-4503-b906-54361c9d4db3)
+
+
+线路分析:
+![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)
 
 ## 购买指导总结
 方便各位快速筛选定位

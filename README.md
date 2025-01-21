@@ -188,7 +188,27 @@ ping图：
 
 
 ---
-## 七、EFCloud(即将倒闭)
+
+## 七、KTM Cloud(12/月2048G) 
+
+官网地址:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
+
+主观评价:直连+中转机场，流量价格便宜12元2048G流量，速度还可以，节点也不少,总体很不错，单位流量价格便宜，推荐需要大流量用户购买。
+
+具有竞争力的套餐： 1️⃣ 2000GB/月（约0.006元/GB）
+
+套餐价格:
+
+![image](https://github.com/user-attachments/assets/17f002eb-7b1b-43c5-81d3-e813f7f83753)
+
+测速与解锁情况:
+![辽宁移动](https://github.com/user-attachments/assets/ccb7f7a7-f78b-439d-967f-0009e5094211)
+
+线路分析：
+![拓扑测试 (1)](https://github.com/user-attachments/assets/0e525f29-b00b-4f3b-9f56-789bbe9eb406)
+
+---
+## 八、EFCloud(即将倒闭)
 
 官网地址1:[点击进入](https://www.efcloud3.cc/register?code=HwwBaKx7)
 
@@ -236,9 +256,9 @@ ping图：
 1. **价格区分：**
      1)**需要普通月付套餐**(每月50G-1000G流量)：
    
-   **20块/月以下**：NieRCloud(15元/155G)、EFCloud(8元/100G)、EFCloud(10元/200G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)、EF Network(9.9元/100G)、极速云(9.9元/100G)、动力港(8元/100G)
+   **20块/月以下**：NieRCloud(15元/155G)、飞兔云(9.9/月118G)、飞兔云(16.9/月218G)、EF Network(9.9元/100G)、极速云(9.9元/100G)、动力港(8元/100G)
    
-   **20-50块/月**：NieRCloud(25元/228G)、EFCloud(20元/500G)、飞兔云(29.9/月450G)、EF Network(20元/320G)、CatCloud(26元/300G)
+   **20-50块/月**：NieRCloud(25元/228G)、飞兔云(29.9/月450G)、EF Network(20元/320G)
    
    **50块以上/月**：NieRCloud(56元/558G)
    
@@ -249,7 +269,7 @@ ping图：
    无
    
    4)**需要不限时按量付费套餐**：
-     EFCloud(25元/100G)、飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
+     飞兔云(29.9/100G)、飞兔云(59.9/200G)、飞兔云(99.9/500G)
    
    5）**回国付费套餐**：
 
@@ -257,9 +277,9 @@ ping图：
 
     1)**专线机场：** 
 
-    2)**中转机场：** NieRCloud、EF Network、CatCloud、动力港
+    2)**中转机场：** NieRCloud、EF Network、动力港、KTM Cloud
 
-    3)**专线+中转机场：** EFCloud、CatCloud、飞兔云、极速云
+    3)**专线+中转机场：** 飞兔云、极速云
 
 3. **有冷门节点：** 飞兔云
    

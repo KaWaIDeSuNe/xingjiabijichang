@@ -167,8 +167,6 @@ ping图：
 官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
 
 
-长期优惠券: 半年付折扣码：SemiAnnually 年付折扣码 Annually。
-
 主观评价: 最近速度、稳定性、解锁都很不错。
 
 套餐价格:

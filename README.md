@@ -184,7 +184,25 @@ ping图：
 线路分析：
 ![拓扑测试 (1)](https://github.com/user-attachments/assets/0e525f29-b00b-4f3b-9f56-789bbe9eb406)
 
+---
+## 八、抹茶云(9.88/月100G)
 
+官网地址:[点击进入](https://ww1.638242.xyz/#/register?code=SO7fKn8s)
+
+机场特色：闲时动态倍率，最低可达0.2倍
+
+主观评价:多入口中转/IEPL专线，1G保底4G峰值带宽，各方面发挥稳定很不错。
+
+
+套餐价格:
+<img width="1421" alt="image" src="https://github.com/user-attachments/assets/30a3926d-bdfc-4f81-a067-eeaeb1eee333" />
+
+
+测速与解锁情况:
+![佛山联通@2Gbps (15)](https://github.com/user-attachments/assets/8d53ef77-40bf-4455-8436-aa569bfbc32a)
+
+线路分析：
+![线路分析 (18)](https://github.com/user-attachments/assets/cefc134f-547c-4b8f-ac6c-c5edad78a803)
 
 ## 购买指导总结
 方便各位快速筛选定位

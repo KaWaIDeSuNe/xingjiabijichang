@@ -88,34 +88,12 @@ ping图：
 线路分析:
 
 ![telegram-cloud-photo-size-5-6309660799160927156-w](https://github.com/user-attachments/assets/421dbb07-0aee-4b8e-a967-5a7346f7c946)
----
-
-
-
-## 四、NieRCloud(15/月115G)
-
-官网地址:[点击进入](https://niercloud.com/#/register?code=pvqbJXIn)
-
-主观评价:发挥依旧稳定，节点质量没得说，还有家宽节点，速度解锁都是极其优秀的水平。
-
-过境线路：广东移动（中转）、江苏移动（中转）、上海电信（中转）
-
-家宽节点：香港、台湾
-
-套餐价格:
-<img width="1126" alt="image" src="https://github.com/user-attachments/assets/3bb00574-2a8c-4522-8e77-ad8a15afd94b">
-
-测速与解锁情况:
-![上海电信@1Gbps (5)](https://github.com/user-attachments/assets/ed93d33b-2f84-402e-99b3-c828fd584797)
-
-线路分析:
-![线路分析 (5)](https://github.com/user-attachments/assets/d23c8804-4566-4ff8-a1af-42f8e0333938)
-
-
 
 ---
 
-## 五、极速云(9.9/月100G)
+---
+
+## 四、极速云(9.9/月100G)
 
 官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 
@@ -139,6 +117,28 @@ ping图：
 
 线路分析:
 ![线路分析 (12)](https://github.com/user-attachments/assets/508ef00d-dd9b-408f-9b92-aa4133b70e6f)
+
+
+## 五、NieRCloud(15/月115G)
+
+官网地址:[点击进入](https://niercloud.com/#/register?code=pvqbJXIn)
+
+主观评价:发挥依旧稳定，节点质量没得说，还有家宽节点，速度解锁都是极其优秀的水平。
+
+过境线路：广东移动（中转）、江苏移动（中转）、上海电信（中转）
+
+家宽节点：香港、台湾
+
+套餐价格:
+<img width="1126" alt="image" src="https://github.com/user-attachments/assets/3bb00574-2a8c-4522-8e77-ad8a15afd94b">
+
+测速与解锁情况:
+![上海电信@1Gbps (5)](https://github.com/user-attachments/assets/ed93d33b-2f84-402e-99b3-c828fd584797)
+
+线路分析:
+![线路分析 (5)](https://github.com/user-attachments/assets/d23c8804-4566-4ff8-a1af-42f8e0333938)
+
+
 
 ---
 
@@ -184,48 +184,7 @@ ping图：
 线路分析：
 ![拓扑测试 (1)](https://github.com/user-attachments/assets/0e525f29-b00b-4f3b-9f56-789bbe9eb406)
 
----
-## 八、EFCloud(即将倒闭)
 
-官网地址1:[点击进入](https://www.efcloud3.cc/register?code=HwwBaKx7)
-
-官网地址2:[点击进入](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7)
-
-新人8折优惠: new
-
-主观评价: ~延迟非常优秀，测得最大带宽达到5000Mbps，本人一直在用的机场，性价比各方面都不错。~（即将倒闭，已经购买的用户，请根据下面公告进行迁移，真的是可惜了）
-
-#### 转发自EFCloud官方公告
-![telegram-cloud-photo-size-5-6084652350196272424-y](https://github.com/user-attachments/assets/9d9bc287-2c37-4ee9-acdb-62c13a028f9f)
-
-**下面是文字版：**
-
-亲爱的EFCLOUD机场用户们，
-
-大家好！我是叼毛的朋友。今天，在这个特殊的时刻，我带着满心的感谢与万分的不舍，向大家写下这封信。
-
-首先，衷心感谢大家一路以来对EFCLOUD机场的支持与信任。你们的每一次使用、每一句鼓励、每一份支持，都是我们前进的动力。也正因为此，在最近香港落地节点到期并出现故障的情况下，我尽自己所能，垫付了部分费用，只为确保在叼毛不在的日子里，大家的使用不会中断。
-
-然而，遗憾的是，至今我依然无法与叼毛取得联系。随着更多服务器逐渐到期，我深感力不从心。因为我没有足够的权限来维修和处理问题，EFCLOUD的服务将不得不面临停摆的局面。这是一个我万分不愿面对的决定，但也是当前无奈的现实。
-
-为了减少大家的损失、延续大家的服务，我决定将现有用户迁移至 XSUS机场，让这份信任能够延续下去。
-      1. 对于套餐仍在有效期内的用户，您可以免费迁移至XSUS。
-      2. 如果您的套餐即将到期或尚未持有有效套餐，也可以享受八折续购的优惠
-20OFF202501
-。
-      3. 我也会尽快处理近期未完成的AFF提现，并欢迎AFF继续与XSUS合作，共同迈向未来。
-这个决定来得并不轻松，因为我深知EFCLOUD在许多用户心中的意义。它不仅是一项服务，更是一段回忆、一份陪伴。正因如此，我希望通过迁移到XSUS的方式，尽最大努力保障大家的体验不中断。如果未来EFCLOUD能够恢复，我依然欢迎您回归，重新续写那段珍贵的旅程。
-
-迁移账号的具体事宜，您可以联系 https://t.me/xsus_support_bot 处理。如有任何问题或疑虑，也请随时向我反馈，我会尽全力为您解决。
-
-在迁移过程中可能会带来一些不便，我对此深感抱歉。也恳请大家理解，这是为尽可能避免更大损失所做的艰难选择。
-
-最后，再次感谢每一位用户的一路相伴。虽然EFCLOUD将暂时画下句号，但我希望XSUS能成为承载你们期望的新起点，也希望这段新的旅程能继续温暖你们的生活。
-
-愿未来的每一天，我们都能遇见更多光与美好。
-
-此致，敬礼！
-一位怀着感恩与歉意的朋友
 
 ## 购买指导总结
 方便各位快速筛选定位

@@ -204,6 +204,45 @@ ping图：
 线路分析：
 ![线路分析 (18)](https://github.com/user-attachments/assets/cefc134f-547c-4b8f-ac6c-c5edad78a803)
 
+## 九、常定云(10/月100G)
+
+官网地址:[点击进入](https://xn--9kqq13ao3b.top/#/register?code=h1geS8PG)
+
+主观评价:使用体验不错，泰国节点都是原生IP，机场线路很透明，机场主回复工单很快，缺点是所有节点都是2倍率
+
+
+套餐价格:
+<img width="1321" alt="image" src="https://github.com/user-attachments/assets/9e710be9-4dc3-420b-9990-11bd1eb61082" />
+
+
+
+测速与解锁情况:
+![telegram-cloud-photo-size-5-6145272600943773493-w](https://github.com/user-attachments/assets/0e01e46b-2341-4b82-8961-7afbe67ed8ea)
+
+![2025-02-10 16 51 56](https://github.com/user-attachments/assets/a07da8fa-af38-40c8-8b58-7225c9045dd3)
+
+线路分析：
+![telegram-cloud-photo-size-5-6145272600943773486-w](https://github.com/user-attachments/assets/a37c8962-a5e1-4e7c-9414-f3552e90a1f2)
+
+机场线路构成:
+
+入口
+白天广移5G入口[广东移动5G]
+晚上沪移2G入口[江苏移动2G]
+
+
+落地机
+七台泰国曼谷原生IP机器，无限流量
+七台泰国机，单线程稳定速度200Mbps，单线程突发带宽400mbps，多线程突发带宽2Gbps
+两台香港机，单线程稳定速度1Gbps，突发带宽4Gbps
+一台日本机，单线程稳定速度1Gbps，突发带宽5Gbps
+三台韩国机，单线程稳定速度1Gbps，突发带宽4Gbps
+一台台湾机，单线程稳定速度1Gpbs, 突发带宽5Gbps
+一台阿布扎比机，单线程稳定速度1Gbps，突发带宽4Gbps
+一台澳大利亚机，单线程稳定速度1Gbps，突发带宽4Gbps
+
+
+
 ## 购买指导总结
 方便各位快速筛选定位
 

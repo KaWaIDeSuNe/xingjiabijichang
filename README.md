@@ -158,7 +158,9 @@ ping图：
 家宽节点：香港、台湾
 
 套餐价格:
-<img width="1126" alt="image" src="https://github.com/user-attachments/assets/3bb00574-2a8c-4522-8e77-ad8a15afd94b">
+![上海电信@1Gbps (5)](https://github.com/user-attachments/assets/ed93d33b-2f84-402e-99b3-c828fd584797)
+![NieRCloud 流媒体](https://github.com/user-attachments/assets/ad131356-16f7-4a3f-8a58-e3b08a002085)
+
 
 测速与解锁情况:
 ![NieRCloud 拓扑](https://github.com/user-attachments/assets/5e64d648-cae5-40c4-9d19-e7edda5553c6)

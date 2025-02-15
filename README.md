@@ -172,28 +172,10 @@ ping图：
 
 
 
----
-
-## 七、阿拉丁(10/月158G)
-官网地址:[点击进入](https://www.avatargpt.xyz/register?aff=Xbkrk4U4K9)
-
-
-主观评价: 最近速度、稳定性、解锁都很不错。
-
-套餐价格:
-![image](https://github.com/user-attachments/assets/3a89581a-4d23-40e7-82eb-58a8b3286686)
-
-测速与解锁情况:
-![上海电信@1Gbps (14)](https://github.com/user-attachments/assets/294d394f-fda7-433a-aee3-559972006dc8)
-
-线路分析:
-![线路分析 (9)](https://github.com/user-attachments/assets/804ecabb-80cf-4740-aca9-eaa07373a3c6)
-
-
 
 ---
 
-## 八、KTM Cloud(12/月2048G) 
+## 七、KTM Cloud(12/月2048G) 
 
 官网地址:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
 
@@ -217,7 +199,7 @@ ping图：
 ![拓扑测试 (1)](https://github.com/user-attachments/assets/0e525f29-b00b-4f3b-9f56-789bbe9eb406)
 
 ---
-## 九、抹茶云(9.88/月128G)
+## 八、抹茶云(9.88/月128G)
 
 官网地址:[点击进入](https://ww1.638242.xyz/#/register?code=SO7fKn8s)
 
@@ -236,7 +218,7 @@ ping图：
 线路分析：
 ![线路分析 (18)](https://github.com/user-attachments/assets/cefc134f-547c-4b8f-ac6c-c5edad78a803)
 
-## 十、常定云(10/月100G)
+## 九、常定云(10/月100G)
 
 官网地址:[点击进入](https://xn--9kqq13ao3b.top/#/register?code=h1geS8PG)
 

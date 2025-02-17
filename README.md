@@ -173,7 +173,8 @@ ping图：
 
 
 测速与解锁情况:
-![上海电信@1Gbps (5)](https://github.com/user-attachments/assets/ed93d33b-2f84-402e-99b3-c828fd584797)
+![MiaoKo-  top-8006-speed](https://github.com/user-attachments/assets/b6fc330a-b4d6-400d-a359-f81d7549cb63)
+
 ![NieRCloud 流媒体](https://github.com/user-attachments/assets/ad131356-16f7-4a3f-8a58-e3b08a002085)
 
 线路分析:

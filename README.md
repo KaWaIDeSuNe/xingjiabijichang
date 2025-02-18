@@ -92,6 +92,9 @@ KTM Cloud 元宵狂欢，全场8.5折优惠！
 
 过境线路：深圳三网（深港专线）、上海电信（沪日专线）
 
+套餐价格：
+<img width="1009" alt="image" src="https://github.com/user-attachments/assets/6e078d3c-2d2e-4a6a-a40d-6d49ef11d3db" />
+
 
 测速与解锁情况:
 ![爱翻 珠海5G 最大速度](https://github.com/user-attachments/assets/8ddcf14e-f7fe-431d-b8af-ec319a15aff7)

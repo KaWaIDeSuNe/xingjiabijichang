@@ -82,7 +82,28 @@ KTM Cloud 元宵狂欢，全场8.5折优惠！
 
 ---
 
-## 三、EF Network(9.9/月100G)
+## 三、爱翻(18/月138G)
+
+官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
+
+机场特色：注册有3天的10G的流量试用，电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线
+
+主观评价: 全专线机场，质量非常不错，有免费试用，可以先试试。
+
+过境线路：深圳三网（深港专线）、上海电信（沪日专线）
+
+
+测速与解锁情况:
+![爱翻 珠海5G 最大速度](https://github.com/user-attachments/assets/8ddcf14e-f7fe-431d-b8af-ec319a15aff7)
+![爱翻 标准流媒体](https://github.com/user-attachments/assets/5eddb9ab-2111-4381-87d9-a2e62a170d10)
+
+
+线路分析:
+![线路分析 (7)](https://github.com/user-attachments/assets/73a905e7-3cac-499b-ade1-5f00336438e4)
+
+---
+
+## 四、EF Network(9.9/月100G)
 
 官网地址:[点击进入](https://666.subef.top/#/login?code=ArQFWeH9)
 
@@ -104,7 +125,7 @@ ping图：
 
 ---
 
-## 四、NieRCloud(15/月115G)
+## 五、NieRCloud(15/月115G)
 
 官网地址:[点击进入](https://niercloud.com/#/register?code=pvqbJXIn)
 
@@ -129,7 +150,7 @@ ping图：
 
 ---
 
-## 五、KTM Cloud(12/月2048G) 
+## 六、KTM Cloud(12/月2048G) 
 
 官网地址:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
 
@@ -154,7 +175,7 @@ ping图：
 
 ---
 
-## 六、极速云(9.9/月100G)
+## 七、极速云(9.9/月100G)
 
 官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 
@@ -181,7 +202,7 @@ ping图：
 
 ---
 
-## 七、青云梯(25/月150G)
+## 八、青云梯(25/月150G)
 
 
 官网地址1:[点击进入](https://qytcc01.qingyunti.pro/register?aff=ymkMqBTU)
@@ -209,7 +230,7 @@ ping图：
 ![telegram-cloud-photo-size-5-6158798075729134545-y](https://github.com/user-attachments/assets/799ae73e-839d-4ea5-85c3-2daaeafbdb59)
 
 ---
-## 八、Metcha Cloud(9.88/月128G)
+## 九、Metcha Cloud(9.88/月128G)
 
 官网地址:[点击进入](https://ww1.638242.xyz/#/register?code=SO7fKn8s)
 
@@ -228,7 +249,7 @@ ping图：
 线路分析：
 ![线路分析 (18)](https://github.com/user-attachments/assets/cefc134f-547c-4b8f-ac6c-c5edad78a803)
 
-## 九、常定云(10/月100G)
+## 十、常定云(10/月100G)
 
 官网地址:[点击进入](https://xn--9kqq13ao3b.top/#/register?code=h1geS8PG)
 
@@ -292,7 +313,7 @@ ping图：
 
 2.  **机场线路：**
 
-    1)**专线机场：** 青云梯
+    1)**专线机场：** 青云梯、爱翻
 
     2)**中转机场：** NieRCloud、EF Network、动力港、KTM Cloud
 

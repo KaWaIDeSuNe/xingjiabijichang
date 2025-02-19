@@ -84,7 +84,7 @@ KTM Cloud 元宵狂欢，全场8.5折优惠！
 
 ## 三、爱翻(18/月138G)
 
-官网地址:[点击进入](https://afun.la/register?code=sWkB0RvO)
+官网地址:[点击进入](https://dash.afun.la/register?code=KVo8cHma)
 
 机场特色：注册有3天的10G的流量试用，电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，有海外回国套餐。
 

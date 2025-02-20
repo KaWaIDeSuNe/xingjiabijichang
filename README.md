@@ -56,12 +56,7 @@ KTM Cloud 元宵狂欢，全场8.5折优惠！
 ![Screenshot_2024-12-11_05-44-29](https://github.com/user-attachments/assets/eca8bd3a-7c28-41ff-a12b-bf6032e0a73d)
 
 
-测速与解锁情况:
-![飞兔云_深圳电信_多线程](https://github.com/user-attachments/assets/081203b5-6abe-463e-b3f3-c16980e84eba)
-![飞兔云_流媒体测试](https://github.com/user-attachments/assets/0b04086a-e9e1-4de7-a48d-f24a2d9d7727)
-
-线路分析:
-![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
+[测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91%E6%B5%8B%E8%AF%84.md)
 
 
 ---
@@ -75,10 +70,8 @@ KTM Cloud 元宵狂欢，全场8.5折优惠！
 
 套餐价格:
 ![image](https://github.com/user-attachments/assets/1581a0f3-6c60-43f8-b328-91313fb6c1b3)
-测速与解锁情况:
-![辽宁移动@1Gbps (19)](https://github.com/user-attachments/assets/b0521b6a-8df3-4f01-8487-8e5a6936e9e8)
-线路分析:
-![线路分析 (15)](https://github.com/user-attachments/assets/1f66bc68-06f0-4220-87f2-66b55e6c0d81)
+
+[测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%8A%A8%E5%8A%9B%E6%B8%AF%E6%B5%8B%E8%AF%84.md)
 
 ---
 

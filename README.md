@@ -216,11 +216,7 @@ ping图：
 <img width="1421" alt="image" src="https://github.com/user-attachments/assets/30a3926d-bdfc-4f81-a067-eeaeb1eee333" />
 
 
-测速与解锁情况:
-![佛山联通@2Gbps (15)](https://github.com/user-attachments/assets/8d53ef77-40bf-4455-8436-aa569bfbc32a)
-
-线路分析：
-![线路分析 (18)](https://github.com/user-attachments/assets/cefc134f-547c-4b8f-ac6c-c5edad78a803)
+[Metcha Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/MetchaCloud.md)
 
 ## 十、常定云(10/月100G)
 

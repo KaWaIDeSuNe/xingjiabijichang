@@ -131,14 +131,7 @@ ping图：
 
 
 
-测速与解锁情况:
-
-![telegram-cloud-photo-size-5-6158798075729134546-y](https://github.com/user-attachments/assets/5cd83959-976d-4e52-ac8c-0bbb4397da39)
-![telegram-cloud-photo-size-5-6158798075729134547-y](https://github.com/user-attachments/assets/4c0b35ae-546a-4c59-b3dc-0ccb283c8acf)
-
-线路分析:
-
-![telegram-cloud-photo-size-5-6158798075729134545-y](https://github.com/user-attachments/assets/799ae73e-839d-4ea5-85c3-2daaeafbdb59)
+[青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
 
 ---
 

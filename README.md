@@ -77,7 +77,7 @@
 
 ---
 
-## 四、EF Network(9.9/月100G)
+## 四、EF Network(8.9/月100G)
 
 官网地址:[点击进入](https://666.subef.top/#/login?code=ArQFWeH9)
 
@@ -86,7 +86,7 @@
 家宽节点：马来西亚
 
 套餐价格:
-<img width="1387" alt="image" src="https://github.com/user-attachments/assets/4ee9e938-61f0-4a44-9c1b-d479fa1296c9">
+<img width="1478" alt="image" src="https://github.com/user-attachments/assets/3c8e95a7-d5fd-447b-aa48-cc617a4d5c77" />
 
 ping图：
 ![image](https://github.com/user-attachments/assets/a95f7aae-96c1-49d4-8cd5-8c2fb680ff3c)

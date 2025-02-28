@@ -55,29 +55,10 @@
 
 [动力港测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%8A%A8%E5%8A%9B%E6%B8%AF.md)
 
----
-
-## 三、爱翻(18/月138G)
-
-官网地址:[点击进入](https://dash.afun.la/register?code=KVo8cHma)
-
-机场特色：注册有3天的10G的流量试用，电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，有海外回国套餐。
-
-主观评价: 全专线机场，质量非常不错，家宽节点也不少，有免费试用，可以先试试。
-
-过境线路：深圳三网（深港专线）、上海电信（沪日专线）
-
-家宽节点：韩国、美国、澳大利亚、泰国、土耳其、菲律宾、英国
-
-套餐价格：
-<img width="1009" alt="image" src="https://github.com/user-attachments/assets/6e078d3c-2d2e-4a6a-a40d-6d49ef11d3db" />
-
-
-[爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)
 
 ---
 
-## 四、EF Network(8.9/月100G)
+## 三、EF Network(8.9/月100G)
 
 官网地址:[点击进入](https://666.subef.top/#/login?code=ArQFWeH9)
 
@@ -97,7 +78,7 @@ ping图：
 
 ---
 
-## 五、青云梯(25/月150G)
+## 四、青云梯(25/月150G)
 
 
 官网地址1:[点击进入](https://qytcc01.qingyunti.pro/register?aff=ymkMqBTU)
@@ -116,6 +97,27 @@ ping图：
 
 
 [青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
+
+---
+
+## 五、极速云(9.9/月100G)
+
+官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
+
+官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
+
+主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
+
+过境线路：
+
+
+套餐价格:
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/acb1e717-6c93-4172-a0a5-7a6bfb007546" />
+
+
+
+
+[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
 
 ---
 
@@ -157,27 +159,27 @@ ping图：
 
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
 
-
 ---
 
-## 八、极速云(9.9/月100G)
+## 八、爱翻(18/月138G)
 
-官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
+官网地址:[点击进入](https://dash.afun.la/register?code=KVo8cHma)
 
-官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
+机场特色：注册有3天的10G的流量试用，电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，有海外回国套餐。
 
-主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
+主观评价: 全专线机场，质量非常不错，家宽节点也不少，有免费试用，可以先试试。
 
-过境线路：
+过境线路：深圳三网（深港专线）、上海电信（沪日专线）
+
+家宽节点：韩国、美国、澳大利亚、泰国、土耳其、菲律宾、英国
+
+套餐价格：
+<img width="1009" alt="image" src="https://github.com/user-attachments/assets/6e078d3c-2d2e-4a6a-a40d-6d49ef11d3db" />
 
 
-套餐价格:
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/acb1e717-6c93-4172-a0a5-7a6bfb007546" />
+[爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)
 
 
-
-
-[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
 
 ---
 ## 九、Metcha Cloud(9.88/月128G)
@@ -206,31 +208,7 @@ ping图：
 <img width="1321" alt="image" src="https://github.com/user-attachments/assets/9e710be9-4dc3-420b-9990-11bd1eb61082" />
 
 
-
-测速与解锁情况:
-![telegram-cloud-photo-size-5-6145272600943773493-w](https://github.com/user-attachments/assets/0e01e46b-2341-4b82-8961-7afbe67ed8ea)
-
-![2025-02-10 16 51 56](https://github.com/user-attachments/assets/a07da8fa-af38-40c8-8b58-7225c9045dd3)
-
-线路分析：
-![telegram-cloud-photo-size-5-6145272600943773486-w](https://github.com/user-attachments/assets/a37c8962-a5e1-4e7c-9414-f3552e90a1f2)
-
-机场线路构成:
-
-入口
-白天广移5G入口[广东移动5G]
-晚上沪移2G入口[江苏移动2G]
-
-
-落地机
-七台泰国曼谷原生IP机器，无限流量
-七台泰国机，单线程稳定速度200Mbps，单线程突发带宽400mbps，多线程突发带宽2Gbps
-两台香港机，单线程稳定速度1Gbps，突发带宽4Gbps
-一台日本机，单线程稳定速度1Gbps，突发带宽5Gbps
-三台韩国机，单线程稳定速度1Gbps，突发带宽4Gbps
-一台台湾机，单线程稳定速度1Gpbs, 突发带宽5Gbps
-一台阿布扎比机，单线程稳定速度1Gbps，突发带宽4Gbps
-一台澳大利亚机，单线程稳定速度1Gbps，突发带宽4Gbps
+[常定云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B8%B8%E5%AE%9A%E4%BA%91.md)
 
 
 
@@ -267,7 +245,7 @@ ping图：
 
 3. **有冷门节点：** 飞兔云
    
-4. **有免费的流量试用**： 
+4. **有免费的流量试用**： 爱翻、KTM Cloud
    
 
 

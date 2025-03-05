@@ -85,7 +85,28 @@ ping图：
 
 ---
 
-## 五、青云梯(25/月150G)
+## 五、极速云(12.9/月150G)
+
+官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
+
+官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
+
+主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
+
+过境线路：
+
+
+套餐价格:
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/03eb2c06-8237-41ec-9494-34ef7b20d420" />
+
+
+
+
+[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
+
+---
+
+## 六、青云梯(25/月150G)
 
 
 官网地址1:[点击进入](https://qytcc01.qingyunti.pro/register?aff=ymkMqBTU)
@@ -104,27 +125,6 @@ ping图：
 
 
 [青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
-
----
-
-## 六、极速云(9.9/月100G)
-
-官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
-
-官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
-
-主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
-
-过境线路：
-
-
-套餐价格:
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/acb1e717-6c93-4172-a0a5-7a6bfb007546" />
-
-
-
-
-[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
 
 ---
 

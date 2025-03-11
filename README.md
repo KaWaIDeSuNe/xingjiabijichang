@@ -206,11 +206,11 @@ ping图：
 
 官网地址:[点击进入](https://xn--9kqq13ao3b.top/#/register?code=h1geS8PG)
 
-主观评价:使用体验不错，泰国节点都是原生IP，机场线路很透明，机场主回复工单很快，缺点是所有节点都是2倍率
+主观评价:使用体验不错，泰国节点都是原生IP，机场线路很透明，机场主回复工单很快.
 
 
 套餐价格:
-<img width="1321" alt="image" src="https://github.com/user-attachments/assets/9e710be9-4dc3-420b-9990-11bd1eb61082" />
+<img width="1317" alt="image" src="https://github.com/user-attachments/assets/87db6715-4a9e-4204-afe5-0dd9a672ca5f" />
 
 
 [常定云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B8%B8%E5%AE%9A%E4%BA%91.md)

@@ -17,7 +17,7 @@
 
 #### NieRCloud
 
-NieRCloud一周年全场6.5折优惠
+NieRCloud一周年全场6.5折优惠预热（后面可能还有大的，不确定）
 
 优惠码：1stYear
 

@@ -57,17 +57,28 @@ NieRCloud一周年全场6.5折优惠预热（后面可能还有大的，不确�
 
 [动力港测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%8A%A8%E5%8A%9B%E6%B8%AF.md)
 
----
-## 三、龙猫云(15/月100G)
-官网地址:[点击进入](https://liji3210.lmvipaff05.cc/register?aff=9QZ7Wx1m)
 
-主观评价:运营挺长时间的全IPLC专线机场，各项指标都非常不错，口碑一直挺好的，客服解决问题的速度也很快。
+---
+
+##三、极速云(12.9/月150G)
+
+官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
+
+官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
+
+主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
+
+过境线路：
+
 
 套餐价格:
-![image](https://github.com/user-attachments/assets/daef4d22-3cea-4747-8df7-fd37b0961755)
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/03eb2c06-8237-41ec-9494-34ef7b20d420" />
 
 
-[龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
+
+
+[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
+
 
 ---
 
@@ -90,25 +101,16 @@ ping图：
 ![telegram-cloud-photo-size-5-6309660799160927156-w](https://github.com/user-attachments/assets/421dbb07-0aee-4b8e-a967-5a7346f7c946)
 
 ---
+## 五、龙猫云(15/月100G)
+官网地址:[点击进入](https://liji3210.lmvipaff05.cc/register?aff=9QZ7Wx1m)
 
-## 五、极速云(12.9/月150G)
-
-官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
-
-官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
-
-主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
-
-过境线路：
-
+主观评价:运营挺长时间的全IPLC专线机场，各项指标都非常不错，口碑一直挺好的，客服解决问题的速度也很快。
 
 套餐价格:
-<img width="781" alt="image" src="https://github.com/user-attachments/assets/03eb2c06-8237-41ec-9494-34ef7b20d420" />
+![image](https://github.com/user-attachments/assets/daef4d22-3cea-4747-8df7-fd37b0961755)
 
 
-
-
-[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
+[龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
 
 ---
 
@@ -169,7 +171,11 @@ ping图：
 
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
 
+
+
 ---
+
+
 
 ## 九、爱翻(18/月138G)
 
@@ -207,18 +213,7 @@ ping图：
 
 [Metcha Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/MetchaCloud.md)
 
-## 十一、常定云(10/月100G)
 
-官网地址:[点击进入](https://xn--9kqq13ao3b.top/#/register?code=h1geS8PG)
-
-主观评价:华为云专线+多入口中转，使用体验不错，泰国节点都是原生IP，机场线路很透明，机场主回复工单很快，但最近被DDoS攻击稳定性一般.
-
-
-套餐价格:
-<img width="1317" alt="image" src="https://github.com/user-attachments/assets/87db6715-4a9e-4204-afe5-0dd9a672ca5f" />
-
-
-[常定云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B8%B8%E5%AE%9A%E4%BA%91.md)
 
 
 
@@ -251,7 +246,7 @@ ping图：
 
     2)**中转机场：** NieRCloud、EF Network、动力港、KTM Cloud
 
-    3)**专线+中转机场：** 飞兔云、极速云、Metcha Cloud、常定云
+    3)**专线+中转机场：** 飞兔云、极速云、Metcha Cloud
 
 3. **有冷门节点：** 飞兔云
    

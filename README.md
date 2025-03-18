@@ -68,10 +68,9 @@ NieRCloud一周年全场6.5折优惠预热（后面可能还有大的，不确�
 
 主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
 
-过境线路：
-
 
 套餐价格:
+
 <img width="781" alt="image" src="https://github.com/user-attachments/assets/03eb2c06-8237-41ec-9494-34ef7b20d420" />
 
 

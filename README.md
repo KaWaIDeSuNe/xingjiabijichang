@@ -172,33 +172,8 @@ ping图：
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
 
 
-
 ---
-
-
-
-## 九、爱翻(18/月138G)
-
-官网地址:[点击进入](https://dash.afun.la/register?code=KVo8cHma)
-
-机场特色：注册有3天的10G的流量试用，电信联通移动三网BGP入口深港专线2G和独家上海电信入口沪日专线，有海外回国套餐。
-
-主观评价: 全专线机场，质量非常不错，家宽节点也不少，有免费试用，可以先试试。
-
-过境线路：深圳三网（深港专线）、上海电信（沪日专线）
-
-家宽节点：韩国、美国、澳大利亚、泰国、土耳其、菲律宾、英国
-
-套餐价格：
-<img width="1009" alt="image" src="https://github.com/user-attachments/assets/6e078d3c-2d2e-4a6a-a40d-6d49ef11d3db" />
-
-
-[爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)
-
-
-
----
-## 十、Metcha Cloud(9.88/月128G)
+## 九、Metcha Cloud(9.88/月128G)
 
 官网地址:[点击进入](https://ww1.638242.xyz/#/register?code=SO7fKn8s)
 
@@ -242,7 +217,7 @@ ping图：
 
 2.  **机场线路：**
 
-    1)**专线机场：** 青云梯、爱翻、龙猫云
+    1)**专线机场：** 青云梯、龙猫云
 
     2)**中转机场：** NieRCloud、EF Network、动力港、KTM Cloud
 

@@ -186,7 +186,13 @@ ping图：
 
 ## 十、KTM Cloud(12/月2048G) 
 
-官网地址:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
+官网地址1:[点击进入](https://ktmcloud.link/#/register?code=EXL0Y3vD)
+
+官网地址2:[点击进入](https://ktmcloud.vip/#/register?code=EXL0Y3vD)
+
+官网地址3:[点击进入](https://ktmcloud.net/#/register?code=EXL0Y3vD)
+
+
 
 
 主观评价:直连+中转机场，流量价格便宜12元2048G流量，速度比起其他中转机场差了点，节点也不少,总体很不错，单位流量价格便宜，推荐需要大流量用户购买。

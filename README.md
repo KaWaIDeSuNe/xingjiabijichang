@@ -205,24 +205,10 @@ ping图：
 
 [爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)
 
----
 
-## 十、星沐互联(8.8/月100G)
-
-官网地址:[点击进入](https://1.homocloud.link/#/register?code=dbTZpJlz)
-
-特色：超多冷门地区节点任选,带多地区家宽，速度嘎嘎快
-
-主观评价:中转+专线机场，入口和出口非常多，目前有九十多个节点，还有很多家宽节点，非常不错。
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/2d063cd9-cf57-47eb-b00d-f116781d503f)
-
-[星沐互联测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%AB%E4%BA%92%E8%81%94.md)
 
 ---
-## 十一、Metcha Cloud(9.88/月128G)
+## 十、Metcha Cloud(9.88/月128G)
 
 官网地址:[点击进入](https://ww1.638242.xyz/#/register?code=SO7fKn8s)
 

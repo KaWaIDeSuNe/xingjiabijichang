@@ -179,7 +179,7 @@ ping图：
 
 套餐价格:
 
-<img width="814" alt="image" src="https://github.com/user-attachments/assets/56b9a937-5c52-44b6-9bab-19550c0a88e3" />
+<img width="817" alt="image" src="https://github.com/user-attachments/assets/5e059795-129c-4a82-b2bc-21fd39baae1d" />
 
 
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)

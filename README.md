@@ -164,7 +164,7 @@ ping图：
 
 ## 八、星沐互联(8.8/月100G)
 
-官网地址:[点击进入](https://1.homocloud.link/#/register?code=dbTZpJlz)
+官网地址:[点击进入](https://homocloud.link/#/register?code=dbTZpJlz)
 
 特色：超多冷门地区节点任选,带多地区家宽，速度嘎嘎快
 

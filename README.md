@@ -273,3 +273,6 @@ iOS：apple store搜索Shadowrocket下载
 
 ![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)](https://www.star-history.com/#KaWaIDeSuNe/xingjiabijichang&Date)

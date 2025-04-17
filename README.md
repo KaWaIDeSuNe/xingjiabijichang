@@ -159,7 +159,7 @@ ping图：
 
 ---
 
-## 八、KTM Cloud(14/月1024G) 
+## 八、KTM Cloud(14/月2048G) 
 
 官网地址1:[点击进入](https://ktmcloud.link/#/register?code=EXL0Y3vD)
 
@@ -170,13 +170,13 @@ ping图：
 
 
 
-主观评价:中转机场，流量价格便宜14元1024G流量，速度比起其他中转机场差了点，节点也不少,总体很不错，单位流量价格便宜，推荐需要大流量用户购买。
+主观评价:中转机场，流量价格便宜14元2048流量，速度比起其他中转机场差了点，节点也不少,总体很不错，单位流量价格便宜，推荐需要大流量用户购买。
 
-具有竞争力的套餐： 1️⃣ 1024GB/月（约0.014元/GB）
+具有竞争力的套餐： 1️⃣ 2048GB/月（约0.007元/GB）
 
 套餐价格:
 
-<img width="823" alt="image" src="https://github.com/user-attachments/assets/38b13a35-1c38-4105-8df3-ff5e6c694e78" />
+<img width="820" alt="image" src="https://github.com/user-attachments/assets/d901cbdc-b9e5-4189-bdf1-5e96c45070fc" />
 
 
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)

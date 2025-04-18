@@ -142,8 +142,23 @@ ping图：
 [NieRCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NieRCloud.md)
 
 ---
+                          
+## 七、山水云(9/月100G)
 
-## 七、星沐互联(8.8/月100G)
+官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
+
+主观评价:全中转，50多个地区的节点，15元以上有专线节点，流媒体、稳定性很优秀，晚高峰速度一般，9元100G，老板处理问题速度很快，这点很赞。
+
+套餐价格:
+
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/3cbd60b6-56a7-4288-bbd2-0b0245936cb0" />
+
+
+[山水云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B1%B1%E6%B0%B4%E4%BA%91.md)
+
+---
+
+## 八、星沐互联(8.8/月100G)
 
 官网地址:[点击进入](https://homocloud.link/#/register?code=dbTZpJlz)
 
@@ -159,7 +174,7 @@ ping图：
 
 ---
 
-## 八、KTM Cloud(14/月2048G) 
+## 九、KTM Cloud(14/月2048G) 
 
 官网地址1:[点击进入](https://ktmcloud.link/#/register?code=EXL0Y3vD)
 
@@ -182,7 +197,7 @@ ping图：
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
 
 ---
-## 九、龙猫云(15/月100G)
+## 十、龙猫云(15/月100G)
 官网地址:[点击进入](https://liji3210.lmvipaff05.cc/register?aff=9QZ7Wx1m)
 
 主观评价:运营挺长时间的全IPLC专线机场，各项指标都非常不错，口碑一直挺好的，客服解决问题的速度也很快。
@@ -198,7 +213,7 @@ ping图：
 
 
 
-## 十、爱翻(18/月138G)
+## 十一、爱翻(18/月138G)
 
 官网地址:[点击进入](https://dash.afun.la/register?code=KVo8cHma)
 
@@ -248,7 +263,7 @@ ping图：
 
     2)**中转机场：** NieRCloud、EF Network、动力港、KTM Cloud
 
-    3)**专线+中转机场：** 飞兔云、极速云、Metcha Cloud、星沐互联
+    3)**专线+中转机场：** 飞兔云、极速云、Metcha Cloud、星沐互联、山水云
 
 3. **有冷门节点：** 飞兔云、星沐互联
    

@@ -218,7 +218,7 @@ ping图：
 
 ---
                           
-## 七、山水云(9/月100G)
+## 七、山水云(10/月100G)
 
 官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
@@ -226,7 +226,7 @@ ping图：
 
 套餐价格:
 
-<img width="791" alt="image" src="https://github.com/user-attachments/assets/3cbd60b6-56a7-4288-bbd2-0b0245936cb0" />
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/aaff3d05-09b1-4e5f-a212-30410a56d679" />
 
 
 [山水云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B1%B1%E6%B0%B4%E4%BA%91.md)

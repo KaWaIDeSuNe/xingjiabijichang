@@ -80,6 +80,15 @@
 
 优惠券截至时间直至2025/5/5日结束
 
+#### 极速云
+劳动节限时特惠！
+
+专属折扣优惠：
+除特惠套餐外，其余套餐全场85折
+优惠券：**jsy85**
+
+优惠券截至时间直至2025/5/5日结束
+
 ---
 
 ## 一、飞兔云(9.9/月118G)
@@ -152,7 +161,7 @@ ping图：
 
 套餐价格:
 
-<img width="781" alt="image" src="https://github.com/user-attachments/assets/03eb2c06-8237-41ec-9494-34ef7b20d420" />
+<img width="780" alt="image" src="https://github.com/user-attachments/assets/e7ee3aa9-6a53-42f0-aba9-129833610830" />
 
 
 

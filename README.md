@@ -301,7 +301,7 @@ ping图：
 家宽节点：韩国、美国、澳大利亚、泰国、土耳其、菲律宾、英国
 
 套餐价格：
-<img width="1009" alt="image" src="https://github.com/user-attachments/assets/6e078d3c-2d2e-4a6a-a40d-6d49ef11d3db" />
+<img width="1082" alt="image" src="https://github.com/user-attachments/assets/2164690a-6473-435b-aca6-9257e2d78222" />
 
 
 [爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)

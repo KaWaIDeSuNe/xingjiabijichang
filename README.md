@@ -307,6 +307,21 @@ ping图：
 [爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)
 
 
+---
+## 十二、Metcha Cloud(9.88/月128G)
+
+官网地址:[点击进入](https://ww1.638242.xyz/#/register?code=SO7fKn8s)
+
+机场特色：闲时动态倍率，凌晨2.30-8.00 专线1倍率 中转0.2倍率
+
+主观评价:多入口中转/IEPL专线，1G保底4G峰值带宽，各方面发挥稳定很不错，除了节点少了点。
+
+
+套餐价格:
+<img width="1421" alt="image" src="https://github.com/user-attachments/assets/30a3926d-bdfc-4f81-a067-eeaeb1eee333" />
+
+
+[Metcha Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/MetchaCloud.md)
 
 
 ## 购买指导总结

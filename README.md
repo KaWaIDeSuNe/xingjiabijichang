@@ -79,9 +79,8 @@
 
 联通用户：推荐购买
 
-电信用户：如果你是广东电信和江苏电信请不要购买，经测试速度很慢，由于本人能力有限只测试五个省的电信网络，其他省的电信用户购买前务必谨慎。
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
 
-<img width="527" alt="image" src="https://github.com/user-attachments/assets/dbbbf7de-40db-4479-b382-e788cc6b6763" />
 
 
 [飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md)
@@ -99,7 +98,13 @@
 套餐价格:
 ![image](https://github.com/user-attachments/assets/1581a0f3-6c60-43f8-b328-91313fb6c1b3)
 
-推荐购买人群：其过境线路与飞兔云相似，推荐购买人群也一致，请参考飞兔云
+推荐购买人群：
+
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
 
 [动力港测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%8A%A8%E5%8A%9B%E6%B8%AF.md)
 
@@ -174,7 +179,7 @@ ping图：
 
 ![image](https://github.com/user-attachments/assets/86cd8d74-dcbd-4cf4-963a-0bf37fdca822)
 
-
+推荐购买人群：三网推荐
 
 [青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
 
@@ -194,8 +199,13 @@ ping图：
 
 <img width="780" alt="image" src="https://github.com/user-attachments/assets/e7ee3aa9-6a53-42f0-aba9-129833610830" />
 
-推荐购买人群：其过境线路与飞兔云相似，推荐购买人群也一致，请参考飞兔云
+推荐购买人群：
 
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
 
 [极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
 
@@ -208,6 +218,7 @@ ping图：
 套餐价格:
 ![image](https://github.com/user-attachments/assets/daef4d22-3cea-4747-8df7-fd37b0961755)
 
+推荐购买人群：三网推荐
 
 [龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
 
@@ -223,6 +234,13 @@ ping图：
 
 <img width="776" alt="image" src="https://github.com/user-attachments/assets/aaff3d05-09b1-4e5f-a212-30410a56d679" />
 
+推荐购买人群：
+
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
 
 [山水云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B1%B1%E6%B0%B4%E4%BA%91.md)
 
@@ -241,6 +259,8 @@ ping图：
 套餐价格:
 
 ![image](https://github.com/user-attachments/assets/2d063cd9-cf57-47eb-b00d-f116781d503f)
+
+推荐购买人群：三网推荐
 
 [星沐互联测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%98%9F%E6%B2%AB%E4%BA%92%E8%81%94.md)
 
@@ -289,6 +309,7 @@ ping图：
 套餐价格：
 <img width="1082" alt="image" src="https://github.com/user-attachments/assets/2164690a-6473-435b-aca6-9257e2d78222" />
 
+推荐购买人群：三网推荐
 
 [爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)
 
@@ -308,7 +329,13 @@ ping图：
 ![image](https://github.com/user-attachments/assets/08bc9fa6-1844-432f-a8f4-89707a94dcd7)
 
 
+推荐购买人群：
 
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
 
 [清风云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%B8%85%E9%A3%8E%E4%BA%91.md)
 

@@ -73,6 +73,15 @@
 套餐价格:
 ![image](https://github.com/user-attachments/assets/69e007fb-77bf-4255-9f00-ea00250a06ef)
 
+推荐购买人群：
+
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：如果你是广东电信和江苏电信请不要购买，经测试速度很慢，由于本人能力有限只测试五个省的电信网络，其他省的电信用户购买前务必谨慎。
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/dbbbf7de-40db-4479-b382-e788cc6b6763" />
+
 
 [飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md)
 

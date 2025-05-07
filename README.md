@@ -99,6 +99,8 @@
 套餐价格:
 ![image](https://github.com/user-attachments/assets/1581a0f3-6c60-43f8-b328-91313fb6c1b3)
 
+推荐购买人群：其过境线路与飞兔云相似，推荐购买人群也一致，请参考飞兔云
+
 [动力港测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%8A%A8%E5%8A%9B%E6%B8%AF.md)
 
 
@@ -142,6 +144,15 @@ ping图：
 套餐价格:
 ![image](https://github.com/user-attachments/assets/66b2b18a-0213-4f0d-8395-667d8c105951)
 
+推荐购买人群：
+
+移动用户：推荐购买
+
+联通用户：推荐购买
+
+电信用户：推荐购买，如果你是广东电信和江苏电信请使用B、C、D组，A组速度慢。
+![2025-05-07T15-05-39 357-top](https://github.com/user-attachments/assets/b8d574c4-0a56-4393-a6e0-760c30347d4c)
+![2025-05-07T14-58-23 802-top](https://github.com/user-attachments/assets/da3c2a47-57fd-4f65-93bc-daaaa4b63fc3)
 
 
 [NieRCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NieRCloud.md)
@@ -177,12 +188,13 @@ ping图：
 
 主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
 
+过境线路：广东移动、江苏移动、浙江移动
 
 套餐价格:
 
 <img width="780" alt="image" src="https://github.com/user-attachments/assets/e7ee3aa9-6a53-42f0-aba9-129833610830" />
 
-
+推荐购买人群：其过境线路与飞兔云相似，推荐购买人群也一致，请参考飞兔云
 
 
 [极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)

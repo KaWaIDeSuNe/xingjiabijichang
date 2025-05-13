@@ -10,14 +10,18 @@
 ### 单线程测速
 
 #### WY Cloud单线程测速（珠海联通）
+![telegram-cloud-photo-size-5-6131885170702271791-w](https://github.com/user-attachments/assets/a8c719eb-4696-4939-9142-ad5e3657699a)
 
-#### WY Cloud单线程测速（广州移动）
 
-#### WY Cloud单线程测速（广西移动）
+#### WY Cloud单线程测速（山东移动）
+![telegram-cloud-photo-size-5-6131885170702271781-w](https://github.com/user-attachments/assets/98d35c18-812c-4484-aff9-ae09630f6d98)
 
-#### WY Cloud单线程测速（成都联通）
 
-#### WY Cloud单线程测速（成都电信）
+#### WY Cloud单线程测速（辽宁电信）
+
+#### WY Cloud单线程测速（北京电信）
+![2025-05-13T09-39-36 907-site](https://github.com/user-attachments/assets/b3fd2ff7-68a9-41b7-87e3-8b4a893d7f4f)
+
 
 ### WY Cloud流媒体解锁测试
 ![2025-05-13T16-35-08 031-site](https://github.com/user-attachments/assets/448754f0-f351-44eb-a907-b785879f06b5)

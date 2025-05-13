@@ -17,7 +17,9 @@
 ![telegram-cloud-photo-size-5-6131885170702271781-w](https://github.com/user-attachments/assets/98d35c18-812c-4484-aff9-ae09630f6d98)
 
 
-#### WY Cloud单线程测速（辽宁电信）
+#### WY Cloud单线程测速（成都电信）
+![2025-05-13T10-29-16 986-site](https://github.com/user-attachments/assets/f3e84259-896a-4e95-9992-9ae7fabad16f)
+
 
 #### WY Cloud单线程测速（北京电信）
 ![2025-05-13T09-39-36 907-site](https://github.com/user-attachments/assets/b3fd2ff7-68a9-41b7-87e3-8b4a893d7f4f)

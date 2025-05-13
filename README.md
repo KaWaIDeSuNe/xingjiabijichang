@@ -295,6 +295,9 @@ ping图：
 
 官网地址1:[点击进入](https://dash.qingfengyun.link/#/register?code=osCoRKJp)
 
+官网地址2:[点击进入](https://www.qingfengyun.xyz/#/register?code=osCoRKJp)
+
+
 机场特色：1. 提供Emby服务 
 
 主观评价: 晚高峰测试，整体速度挺好，入口有点单一

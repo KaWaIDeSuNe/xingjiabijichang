@@ -182,7 +182,7 @@ ping图：
 推荐购买人群：三网推荐
 
 *最大带宽*
-- 热门节点 6.5Gbps
+- 热门节点 6Gbps
 ![telegram-cloud-photo-size-5-6179470341735304302-w](https://github.com/user-attachments/assets/cbe90ad1-b649-4f75-87c9-8f40f484a229)
 
 

@@ -192,15 +192,15 @@ ping图：
 
 ---
                           
-## 七、山水云(10/月100G)
+## 七、山水云(13/月100G)
 
 官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
 
-主观评价:全中转，50多个地区的节点，15元以上有专线节点，流媒体、稳定性很优秀，晚高峰速度一般，9元100G，老板处理问题速度很快，这点很赞。
+主观评价:全中转，50多个地区的节点，18元以上有专线节点，流媒体、稳定性很优秀，晚高峰速度一般，9元100G，老板处理问题速度很快，这点很赞。
 
 套餐价格:
 
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/aaff3d05-09b1-4e5f-a212-30410a56d679" />
+<img width="1205" alt="image" src="https://github.com/user-attachments/assets/16585b40-aec9-4e3c-8f1c-1bc0d1deffae" />
 
 推荐购买人群：
 

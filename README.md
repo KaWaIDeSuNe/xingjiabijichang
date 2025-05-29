@@ -306,6 +306,12 @@ ping图：
 
 ![image](https://github.com/user-attachments/assets/924b1c5a-1efa-42dc-8d83-4003036a3cd2)
 
+*最大带宽*
+- 热门节点 5Gbps
+
+![telegram-cloud-photo-size-5-6179470341735304377-w](https://github.com/user-attachments/assets/02935ea0-8413-409f-89b3-f6169fb5e0a6)
+
+
 [WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)
 
 

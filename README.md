@@ -117,6 +117,12 @@
 ![2025-05-07T14-58-23 802-top](https://github.com/user-attachments/assets/da3c2a47-57fd-4f65-93bc-daaaa4b63fc3)
 
 
+*最大带宽*
+- 热门节点 5Gbps
+  
+![telegram-cloud-photo-size-5-6179470341735304314-w](https://github.com/user-attachments/assets/3d532df9-7a71-4fa2-96af-fb71891772b4)
+
+
 [NieRCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/NieRCloud.md)
 
 
@@ -174,6 +180,11 @@ ping图：
 ![image](https://github.com/user-attachments/assets/86cd8d74-dcbd-4cf4-963a-0bf37fdca822)
 
 推荐购买人群：三网推荐
+
+*最大带宽*
+- 热门节点 6.5Gbps
+![telegram-cloud-photo-size-5-6179470341735304302-w](https://github.com/user-attachments/assets/cbe90ad1-b649-4f75-87c9-8f40f484a229)
+
 
 [青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
 

@@ -273,7 +273,10 @@ ping图：
 
 推荐购买人群：三网推荐
 
+*最大带宽*
+- 热门节点 10Gbps
 
+![telegram-cloud-photo-size-1-5024208337650167291-y](https://github.com/user-attachments/assets/9de35427-004c-48da-8cc7-1c60ec4302f9)
 
 
 [爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)

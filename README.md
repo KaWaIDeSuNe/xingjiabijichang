@@ -348,6 +348,12 @@ ping图：
 套餐价格:
 <img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />
 
+*最大带宽*
+- 热门节点 6Gbps
+- 
+![2025-05-30 17 19 57](https://github.com/user-attachments/assets/b99c4657-f2d0-4010-a931-53c6cdad62c1)
+
+
 [紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md)
 
 ---

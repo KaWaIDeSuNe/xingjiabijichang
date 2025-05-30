@@ -348,6 +348,8 @@ ping图：
 套餐价格:
 <img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />
 
+推荐购买人群：三网推荐
+
 *最大带宽*
 - 热门节点 7Gbps
   

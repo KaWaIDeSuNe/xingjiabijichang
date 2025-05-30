@@ -324,7 +324,19 @@ ping图：
 [WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)
 
 
+---
+## 十一、紅葉(10/月158G)
 
+官网地址:[点击进入](https://www.xn--qprx60h.site/auth/register?code=V9cquaO2)
+
+特色：注册即送首月50G免费流量套餐，高速BGP.EIP线路,秒开8K,支持解锁流媒体，GPT，晚高峰不卡,Vmess协议,速度飞快！
+
+主观评价: 10元158G为BGP线路，还有19.8的IPLC专线，整体看起来非常不错，性价比也很高.
+
+套餐价格:
+<img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />
+
+[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md)
 
 ---
 

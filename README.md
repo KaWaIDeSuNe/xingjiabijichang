@@ -349,8 +349,8 @@ ping图：
 <img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />
 
 *最大带宽*
-- 热门节点 6Gbps
-- 
+- 热门节点 7Gbps
+  
 ![2025-05-30 17 19 57](https://github.com/user-attachments/assets/b99c4657-f2d0-4010-a931-53c6cdad62c1)
 
 

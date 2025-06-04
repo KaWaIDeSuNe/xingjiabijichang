@@ -282,7 +282,7 @@ ping图：
 
 官网地址:[点击进入](https://www.binfeng.site/#/register?code=jTkEdr8s)
 
-特色：凭优惠码：**WY100** 可领取首月50G的白嫖套餐，解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
+特色：凭优惠码：**妙蛙种子** 可领取首月50G的白嫖套餐，解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
 
 主观评价: 不同价格套餐节点有些区别，最低12元100G，各方面挺不错的
 

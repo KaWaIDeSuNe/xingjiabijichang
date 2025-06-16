@@ -305,34 +305,7 @@ ping图：
 
 [紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md)
 
----
 
-## 十二、清风云(9/月100G)
-
-官网地址1:[点击进入](https://dash.qingfengyun.link/#/register?code=osCoRKJp)
-
-官网地址2:[点击进入](https://www.qingfengyun.xyz/#/register?code=osCoRKJp)
-
-
-机场特色：1. 提供Emby服务 
-
-主观评价: 晚高峰测试，整体速度挺好，入口有点单一
-
-
-套餐价格:
-
-![image](https://github.com/user-attachments/assets/08bc9fa6-1844-432f-a8f4-89707a94dcd7)
-
-
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
-
-[清风云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%B8%85%E9%A3%8E%E4%BA%91.md)
 
 
 ## 购买指导总结

@@ -3,30 +3,26 @@
 
 ### 多线程测速
 
-#### WY Cloud多线程测速（珠海联通）
-![2025-05-13 15 47 40](https://github.com/user-attachments/assets/4c8e8491-5396-4210-91cd-e45894e71dc7)
+#### WY Cloud多线程测速（上海微软）
+![WYCloud-测速图(上海微软10G)](https://github.com/user-attachments/assets/54e03f41-3658-4a4b-ba5b-28c0a728aae7)
 
 
 ### 单线程测速
 
-#### WY Cloud单线程测速（珠海联通）
-![telegram-cloud-photo-size-5-6131885170702271791-w](https://github.com/user-attachments/assets/a8c719eb-4696-4939-9142-ad5e3657699a)
+#### WY Cloud单线程测速（广州电信）
+![WYCloud-单线程(广州电信10G)](https://github.com/user-attachments/assets/58e1d4b3-e718-4a7b-bc1c-0808a5342a7b)
 
 
-#### WY Cloud单线程测速（山东移动）
-![telegram-cloud-photo-size-5-6131885170702271781-w](https://github.com/user-attachments/assets/98d35c18-812c-4484-aff9-ae09630f6d98)
+#### WY Cloud单线程测速（佛山联通）
+![WYCloud-单线程(佛山联通2G)](https://github.com/user-attachments/assets/1f1b8559-06b6-44e9-892a-a0c1cdec52fa)
 
 
-#### WY Cloud单线程测速（成都电信）
-![2025-05-13T10-29-16 986-site](https://github.com/user-attachments/assets/f3e84259-896a-4e95-9992-9ae7fabad16f)
-
-
-#### WY Cloud单线程测速（北京电信）
-![2025-05-13T09-39-36 907-site](https://github.com/user-attachments/assets/b3fd2ff7-68a9-41b7-87e3-8b4a893d7f4f)
+#### WY Cloud单线程测速（广东移动）
+![WYCloud-单线程(广州移动10G)](https://github.com/user-attachments/assets/f37f2107-778f-4d2f-a9d8-d74da0a2a5e6)
 
 
 ### WY Cloud流媒体解锁测试
-![2025-05-13T16-35-08 031-site](https://github.com/user-attachments/assets/448754f0-f351-44eb-a907-b785879f06b5)
+![WYCloud-解锁图](https://github.com/user-attachments/assets/40eb0cc0-98da-40a3-86c4-fcdb9f5b69cf)
 
 
 ### WY Cloud线路分析

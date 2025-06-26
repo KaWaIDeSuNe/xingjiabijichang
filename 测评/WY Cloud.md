@@ -30,4 +30,4 @@
 
 
 ### WY Cloud线路分析
-![telegram-cloud-photo-size-5-6131880338864062679-w](https://github.com/user-attachments/assets/7a871b2a-5611-4821-985c-89e0258ded52)
+![WYCloud-拓扑图](https://github.com/user-attachments/assets/8b8a8052-a4a5-4ff1-a751-72186a3973c2)

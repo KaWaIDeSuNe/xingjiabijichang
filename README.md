@@ -259,11 +259,31 @@ ping图：
 
 [爱翻测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%88%B1%E7%BF%BB.md)
 
+"---
 
+## 十、WY Cloud(12/月100G)
+
+官网地址:[点击进入](https://www.binfeng.site/#/register?code=jTkEdr8s)
+
+特色：凭优惠码：**妙蛙种子** 可领取首月50G的白嫖套餐，解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
+
+主观评价: 不同价格套餐节点有些区别，最低12元100G，各方面挺不错的
+
+套餐价格:
+
+![image](https://github.com/user-attachments/assets/924b1c5a-1efa-42dc-8d83-4003036a3cd2)
+
+*最大带宽*
+- 热门节点 5Gbps
+
+![telegram-cloud-photo-size-5-6179470341735304377-w](https://github.com/user-attachments/assets/02935ea0-8413-409f-89b3-f6169fb5e0a6)
+
+
+[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)"
 
 ---
 
-## 十、极速云(12.9/月150G)
+## 十一、极速云(12.9/月150G)
 
 官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 

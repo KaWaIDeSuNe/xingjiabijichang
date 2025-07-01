@@ -187,7 +187,7 @@ ping图：
                           
 ## 七、山水云(13/月100G)
 
-官网地址:[点击进入](https://sy.wgkzg.com/#/register?code=mXnyRSJX)
+官网地址:[点击进入](https://sy.h8320.com/#/register?code=mXnyRSJX)
 
 主观评价:全中转，50多个地区的节点，18元以上有专线节点，流媒体、稳定性很优秀，晚高峰速度一般，老板处理问题速度很快，这点很赞。
 

@@ -157,7 +157,9 @@
 ## 六、青云梯(25/月150G)
 
 
-官网地址:[点击进入]([)](https://ivt01.qytaff.cc/register?aff=ymkMqBTU)
+
+
+官网地址:[点击进入](https://ivt01.qytaff.cc/register?aff=ymkMqBTU)
 
 机场特色：全IPLC专线，原生IP解锁各大流媒体，三网优化，智能负载均衡(针对不同用户的本地实际网络分配最适合的入口和线路)。
 

@@ -62,7 +62,7 @@ NieRCloud夏日八五折优惠
 
 特色：注册即送首月50G免费流量套餐，高速BGP.EIP线路,秒开8K,支持解锁流媒体，GPT，晚高峰不卡,Vmess协议,速度飞快！
 
-主观评价: 10元158G为BGP线路，还有19.8的IPLC专线，整体看起来非常不错，性价比也很高.
+主观评价: 10元158G为BGP线路，还有19.8的IPLC专线，整体看起来非常不错，性价比也很高（最近被打了，好像不是很稳定）.
 
 套餐价格:
 <img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />

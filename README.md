@@ -58,7 +58,10 @@ NieRCloud夏日八五折优惠
 
 ## 二、紅葉(10/月158G)
 
-官网地址:[点击进入](https://www.xn--qprx60h.site/auth/register?code=V9cquaO2)
+
+官网地址1:[点击进入](https://www.紅葉.site/auth/register?code=V9cquaO2)
+
+官网地址2:[点击进入](https://www.xn--qprx60h.site/auth/register?code=V9cquaO2)
 
 特色：注册即送首月50G免费流量套餐，高速BGP.EIP线路,秒开8K,支持解锁流媒体，GPT，晚高峰不卡,Vmess协议,速度飞快！
 

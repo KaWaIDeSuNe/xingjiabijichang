@@ -235,17 +235,17 @@ ping图：
 
 ---
 
-## 九、WY Cloud(18/月100G)
+## 九、WY Cloud(10/月100G)
 
 官网地址:[点击进入](https://www.wuyouyun.lat/#/register?code=jTkEdr8s)
 
-特色：凭优惠码：**妙蛙种子** 可领取首月50G的白嫖套餐，解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
+特色：解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
 
 主观评价: 最近很不错，新增了很多入口，不同价格套餐节点有些区别，最低18元100G，也有免费的套餐试用。
 
 套餐价格:
 
-<img width="945" alt="image" src="https://github.com/user-attachments/assets/2810dd4b-5c45-4ddc-8ee7-7694c6651d04" />
+<img width="1212" height="887" alt="image" src="https://github.com/user-attachments/assets/a14308cd-b34e-4f9e-9bfc-bfcf8cfb9cfd" />
 
 推荐购买人群：三网推荐
 

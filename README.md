@@ -15,13 +15,6 @@
 ## 机场限时优惠
 
 
-#### NieRCloud
-
-NieRCloud夏日八五折优惠
-
-优惠码：**SummerVacation**
-
-有效期：2025/07/06 23:55 ~ 2025/08/24 00:05
 
 #### KTM Cloud
 🎉 KTM Cloud 四周年庆 🎉

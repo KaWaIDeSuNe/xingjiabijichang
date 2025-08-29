@@ -262,11 +262,11 @@ ping图：
 
 特色：解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
 
-主观评价: 最近很不错，新增了很多入口，不同价格套餐节点有些区别，最低10元100G，也有免费的套餐试用。
+主观评价: 最近很不错，新增了很多入口，不同价格套餐节点有些区别，最低10元100G，还有免费的套餐试用。
 
 套餐价格:
 
-<img width="1212" height="887" alt="image" src="https://github.com/user-attachments/assets/a14308cd-b34e-4f9e-9bfc-bfcf8cfb9cfd" />
+<img width="1257" height="900" alt="image" src="https://github.com/user-attachments/assets/e606b75a-8111-4413-81d4-9a1e50c80949" />
 
 推荐购买人群：三网推荐
 

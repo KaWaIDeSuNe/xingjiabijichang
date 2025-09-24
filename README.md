@@ -269,31 +269,7 @@ ping图：
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
 
 
----
 
-## 十一、极速云(12.9/月150G)
-
-官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
-
-官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
-
-主观评价: IEPL+中转线路，注意所有节点都是8倍率，原因见公告，总的来说质量还不错。
-
-过境线路：广东移动、江苏移动、浙江移动
-
-套餐价格:
-
-<img width="780" alt="image" src="https://github.com/user-attachments/assets/e7ee3aa9-6a53-42f0-aba9-129833610830" />
-
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
-
-[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
 
 ---
 

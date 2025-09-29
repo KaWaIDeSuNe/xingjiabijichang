@@ -252,7 +252,8 @@ ping图：
 
 套餐价格:
 
-<img width="1257" height="900" alt="image" src="https://github.com/user-attachments/assets/e606b75a-8111-4413-81d4-9a1e50c80949" />
+<img width="1423" height="854" alt="image" src="https://github.com/user-attachments/assets/4dc3cbb6-ffbd-4767-838f-14f24c914386" />
+
 
 推荐购买人群：三网推荐
 

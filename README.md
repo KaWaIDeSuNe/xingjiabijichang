@@ -250,7 +250,8 @@ ping图：
 
 
 
-[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)"
+[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)
+
 ---
 
 ## 十、极速云(12.9/月150G)
@@ -273,7 +274,7 @@ ping图：
 
 联通用户：推荐购买
 
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
+电信用户：广东电信和江苏电信不推荐购买，移动入口机场可能存在广东电信和江苏电信夸网访问Qos限速问题。
 
 [极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)"
 

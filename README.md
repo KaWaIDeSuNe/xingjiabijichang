@@ -266,7 +266,7 @@ ping图：
 
 套餐价格:
 
-<img width=""780"" alt=""image"" src=""https://github.com/user-attachments/assets/e7ee3aa9-6a53-42f0-aba9-129833610830"" />
+<img width="780" alt="image" src="https://github.com/user-attachments/assets/e7ee3aa9-6a53-42f0-aba9-129833610830" />
 
 推荐购买人群：
 

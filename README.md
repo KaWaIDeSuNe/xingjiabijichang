@@ -41,7 +41,7 @@
 过境线路：深圳移动（广港专线）、佛山移动（中转）
 
 套餐价格:
-<img width="1039" height="783" alt="image" src="https://github.com/user-attachments/assets/3618562b-4204-4125-98b7-df737e5c9d51" />
+<img width="983" height="751" alt="image" src="https://github.com/user-attachments/assets/27e0f1d8-05ef-4539-b52c-dff4434869da" />
 
 推荐购买人群：三网推荐
 

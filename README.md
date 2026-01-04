@@ -133,7 +133,8 @@
 套餐价格:
 ![image](https://github.com/user-attachments/assets/daef4d22-3cea-4747-8df7-fd37b0961755)
 
-推荐购买人群：三网推荐
+推荐购买人群：其他省份的三网用户
+不推荐人群：江苏用户 （用户反馈江苏移动不可用）
 
 [龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
 

@@ -213,13 +213,18 @@ ping图：
 
 ## 八、WY Cloud(10/月50G)
 
-官网地址:[点击进入](https://www.wuyouyun.lat/#/register?code=jTkEdr8s)
+官网地址1:[点击进入](https://www.wuyouyun.lat/#/register?code=jTkEdr8s)
+
+官网地址2:[点击进入](https://www.z1z1.xyz/#/register?code=jTkEdr8s)
+
 
 特色：解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
 
 官方客户端：支持安卓、Windows、Linux、macOS
 
-主观评价: 最近很不错，新增了很多入口，不同价格套餐节点有些区别，最低10元50G，还有官方客户端，使用起来也挺方便的。
+主观评价: 近期新增了很多节点和入口，还有一些家宽节点，不同价格套餐节点有些区别，最低10元50G，还有官方客户端，使用起来也挺方便的，但是最近的节点稳定性有点差。
+
+家宽节点：香港、日本
 
 套餐价格:
 

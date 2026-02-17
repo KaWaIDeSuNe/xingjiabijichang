@@ -53,8 +53,6 @@
 
 全场 75折
 
-领券购买：https://www.紅葉.site/auth/register?code=V9cquaO2
-
 结束时间  2026/2/25 23:59
 
 ---

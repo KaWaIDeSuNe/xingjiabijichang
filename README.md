@@ -200,42 +200,11 @@ ping图：
 
 
 
----
 
-## 八、WY Cloud(10/月50G)
-
-官网地址1:[点击进入](https://www.wuyouyun.lat/#/register?code=jTkEdr8s)
-
-官网地址2:[点击进入](https://www.z1z1.xyz/#/register?code=jTkEdr8s)
-
-
-特色：解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
-
-官方客户端：支持安卓、Windows、Linux、macOS
-
-主观评价: 近期新增了很多节点和入口，还有一些家宽节点，不同价格套餐节点有些区别，最低10元50G，还有官方客户端，使用起来也挺方便的，但是最近的节点稳定性有点差。
-
-家宽节点：香港、日本
-
-套餐价格:
-
-<img width="1423" height="854" alt="image" src="https://github.com/user-attachments/assets/4dc3cbb6-ffbd-4767-838f-14f24c914386" />
-
-
-推荐购买人群：三网推荐
-
-*最大带宽*
-- 热门节点 5Gbps
-
-<img width="3121" height="1495" alt="2025-09-29T14-12-03 292-174" src="https://github.com/user-attachments/assets/f44ede22-d438-45e9-9d7f-2942a2778a0e" />
-
-
-
-[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)
 
 ---
 
-## 九、极速云(12.9/月150G)
+## 八、极速云(12.9/月150G)
 
 官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 
@@ -261,7 +230,7 @@ ping图：
 
 ---
 
-## 十、TNTCloud(20/月110G)
+## 九、TNTCloud(20/月110G)
 
 
 官网地址:[点击进入](http://web01.tntyun.cc/#/register?code=GiCykFjU)

@@ -171,30 +171,7 @@ ping图：
 
 [KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
 
----
-                          
-## 七、山水云(15/月100G)
 
-官网地址1:[点击进入](https://ss1.jghjbj.com/#/register?code=mXnyRSJX)
-
-官网地址2:[点击进入](https://sy.h8320.com/#/register?code=mXnyRSJX)
-
-
-主观评价:全中转，50多个地区的节点，流媒体、稳定性很优秀，晚高峰速度一般，老板处理问题速度很快，这点很赞。
-
-套餐价格:
-
-<img width="1315" height="791" alt="image" src="https://github.com/user-attachments/assets/e9cd8395-ed43-4280-a6dc-fdb6ded9791e" />
-
-推荐购买人群：
-
-移动用户：推荐购买
-
-联通用户：推荐购买
-
-电信用户：广东电信和江苏电信不推荐购买，移动入口机场都存在广东电信和江苏电信夸网访问Qos限速问题，预计六月份才能解决。其他地区不受限制。
-
-[山水云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E5%B1%B1%E6%B0%B4%E4%BA%91.md)
 
 
 
@@ -204,7 +181,7 @@ ping图：
 
 ---
 
-## 八、极速云(12.9/月150G)
+## 七、极速云(12.9/月150G)
 
 官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
 
@@ -230,7 +207,7 @@ ping图：
 
 ---
 
-## 九、TNTCloud(20/月110G)
+## 八、TNTCloud(20/月110G)
 
 
 官网地址:[点击进入](http://web01.tntyun.cc/#/register?code=GiCykFjU)

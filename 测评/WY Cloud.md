@@ -1,4 +1,3 @@
-
 ## WY Cloud
 
 ### 多线程测速
@@ -26,4 +25,4 @@
 
 
 ### WY Cloud线路分析
-![WYCloud-拓扑图](https://github.com/user-attachments/assets/8b8a8052-a4a5-4ff1-a751-72186a3973c2)
+<img width="2570" height="8775" alt="WY云" src="https://github.com/user-attachments/assets/61d6bd4d-d203-41a9-a84f-6a5b1e05d6af" />

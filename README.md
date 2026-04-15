@@ -22,7 +22,10 @@
 
 ## 一、飞兔云(9.9/月118G)
 
-官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=4ZoNj0zb)
+官网地址1:[点击进入](https://vip.xn--h5qy75o.vip/#/register?code=4ZoNj0zb)
+
+官网地址2:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=4ZoNj0zb)
+
 
 机场特色:签到送流量
 

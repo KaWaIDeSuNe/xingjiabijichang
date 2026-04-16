@@ -190,7 +190,7 @@ ping图：
 
 ## 七、极速云(12.9/月150G)
 
-官网地址1:[点击进入](https://w2.rouhe88.com/#/register?code=aSnr6JSe)
+官网地址1:[点击进入](https://905.jsy902.xyz/#/register?code=aSnr6JSe)
 
 官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
 

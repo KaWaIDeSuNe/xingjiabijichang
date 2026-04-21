@@ -224,9 +224,7 @@ ping图：
 官网地址1:[点击进入](https://www.z1z1.xyz/#/register?code=jTkEdr8s)
 
 
-特色：解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
-
-官方客户端：支持安卓、Windows、Linux、macOS
+特色：注册可购买免费的公益套餐，解锁全球Netflix、Disney+、Hulu、HBO Max、BBC iPlayer 等全平台流媒体服务，看片无障碍，游戏、日常办公也同样丝滑流畅。
 
 主观评价: 腾讯云专线+海外中转，120多个节点，近期新增了很多冷门节点，还有一些家宽节点，入口与出口网络供应商覆盖极广，几乎不会全线崩溃。
 
@@ -238,7 +236,7 @@ ping图：
 
 套餐价格:
 
-<img width="1211" height="889" alt="image" src="https://github.com/user-attachments/assets/cb598f4b-b820-4d86-83cd-8631e0db8078" />
+<img width="1238" height="892" alt="image" src="https://github.com/user-attachments/assets/5ae02154-3b28-4b17-a5c1-a22c56d4b64b" />
 
 
 推荐购买人群：三网推荐

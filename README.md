@@ -35,6 +35,8 @@
 
 家宽节点：香港
 
+🟢推荐购买人群：联通、移动用户   🔴不推荐人群：电信网络用户
+
 套餐价格:
 <img width="2045" height="1514" alt="image" src="https://github.com/user-attachments/assets/66110f9c-1c4e-427e-8c3b-ae05d0bb2246" />
 

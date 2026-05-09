@@ -40,7 +40,7 @@
 套餐价格:
 <img width="2045" height="1514" alt="image" src="https://github.com/user-attachments/assets/66110f9c-1c4e-427e-8c3b-ae05d0bb2246" />
 
-推荐购买人群：三网推荐
+
 
 *最大带宽*
 - 热门节点 5Gbps
@@ -200,6 +200,7 @@ ping图：
 
 主观评价: IEPL+中转线路，注意所有节点都是3倍率，原因见公告，总的来说质量还不错。
 
+推荐购买人群：三网推荐
 
 套餐价格:
 

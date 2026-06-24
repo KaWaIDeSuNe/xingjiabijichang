@@ -6,7 +6,7 @@
 <p align="center">
   <strong>简体中文</strong>
   &nbsp;·&nbsp;
-  <a href="./README_EN.md">简体中文</a>
+  <a href="./README_EN.md">English</a>
 </p>
 
 🚀推荐几款最具性价比的机场

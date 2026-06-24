@@ -10,7 +10,6 @@
 
 🚀 **Recommendation of the most cost-effective proxy services.**
 
-[点击查看中文版 (Click here for Chinese Version)](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/README.md)
 
 This document recommends several proxy providers (commonly known as "airports" in China) that offer exceptional cost-performance and stability. If you have specific requirements for rare node locations or peak bandwidth, please check the provider details below. It is highly recommended to keep multiple backup providers to prevent getting disconnected. Any provider carries the risk of shutting down unexpectedly; purchasing **monthly plans** is recommended to minimize financial risks (this note applies universally and is not targeted at any specific provider).
 

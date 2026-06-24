@@ -8,6 +8,8 @@
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/xingjiabijichang)，您的支持是我更新的动力！
 
+[👉 点击查看英文版 (Click here for English Version)](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/README_EN.md)
+
 ![](https://komarev.com/ghpvc/?username=xingjiabijichang)
 ---
 

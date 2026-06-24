@@ -1,5 +1,13 @@
-# 性价比机场推荐
-[👉 点击查看英文版 (Click here for English Version)](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/README_EN.md)
+
+
+<h1 align="center">性价比机场推荐</h1>
+
+
+<p align="center">
+  <strong>简体中文</strong>
+  &nbsp;·&nbsp;
+  <a href="./README_EN.md">简体中文</a>
+</p>
 
 🚀推荐几款最具性价比的机场
 

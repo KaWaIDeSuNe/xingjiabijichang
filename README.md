@@ -54,10 +54,6 @@
 
 
 
-*最大带宽*
-- 热门节点 5Gbps
-
-  ![telegram-cloud-photo-size-5-6179470341735304291-w](https://github.com/user-attachments/assets/62e4e678-d430-4bb8-a106-263758c1c963)
 
 [飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md)
 
@@ -91,9 +87,6 @@
 
 推荐购买人群：三网推荐
 
-*最大带宽*
-- 热门节点 6Gbps
-![telegram-cloud-photo-size-5-6179470341735304302-w](https://github.com/user-attachments/assets/cbe90ad1-b649-4f75-87c9-8f40f484a229)
 
 
 [青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
@@ -121,10 +114,6 @@
 
 推荐购买人群：三网推荐
 
-*最大带宽*
-- 热门节点 7Gbps
-  
-![2025-05-30 17 19 57](https://github.com/user-attachments/assets/b99c4657-f2d0-4010-a931-53c6cdad62c1)
 
 
 [紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md)

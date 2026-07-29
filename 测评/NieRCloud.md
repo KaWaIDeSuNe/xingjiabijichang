@@ -2,20 +2,23 @@
 
 ### 多线程测速
 
-#### NieRCloud多线程测速（上海电信）
-![MiaoKo-  top-8006-speed](https://github.com/user-attachments/assets/b6fc330a-b4d6-400d-a359-f81d7549cb63)
+#### NieRCloud多线程测速（北京移动）
+<img width="1086" height="1105" alt="NieRCloud_20260729_150038_speed" src="https://github.com/user-attachments/assets/d104c681-1e5a-4d66-be18-0ee9730929a9" />
+
+
+#### NieRCloud多线程测速（江苏电信）
+<img width="1092" height="1105" alt="NieRCloud_20260729_155127_speed" src="https://github.com/user-attachments/assets/428dba1e-e3f7-4a1e-ab65-87ed2725bb27" />
 
 
 ### 单线程测速
 
-#### NieRCloud单线程测速（杭州移动）
-![NieRCloud 浙江杭州移动单线程](https://github.com/user-attachments/assets/c58769ff-4d46-45c5-ad1f-4f3d236305b9)
+#### NieRCloud单线程测速（北京移动）
+<img width="1110" height="1105" alt="NieRCloud_20260729_150814_speed" src="https://github.com/user-attachments/assets/34e4d6f0-9cca-4e14-af3d-c5c101faac64" />
 
-#### NieRCloud单线程测速（广州电信）
+#### NieRCloud单线程测速（江苏电信）
 ![NieRCloud 广州电信单线程](https://github.com/user-attachments/assets/2bc20ba2-1d85-49d7-bd80-ba2afa9eaf1f)
 
-#### NieRCloud单线程测速（佛山联通）
-![NieRCloud  佛山联通单线程](https://github.com/user-attachments/assets/a73e9f2d-ddfc-4045-9c5b-5dee5fb02568)
+
 
 
 ### NieRCloudAI解锁测试

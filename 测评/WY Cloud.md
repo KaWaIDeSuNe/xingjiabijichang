@@ -2,6 +2,10 @@
 
 ### 多线程测速
 
+#### WY Cloud多线程测速（江苏电信）
+<img width="1391" height="6805" alt="WY_Cloud_20260729_115402_speed" src="https://github.com/user-attachments/assets/52bdadfa-ec0f-4174-a8f1-3e08a5db6167" />
+
+
 #### WY Cloud多线程测速（洛杉矶）
 <img width="1396" height="6805" alt="image" src="https://github.com/user-attachments/assets/2fc173da-91e9-4856-9806-2390851e10e6" />
 

@@ -244,7 +244,7 @@ ping图：
 ## 九、TNTCloud(20/月110G)
 
 
-官网地址:[点击进入](http://web01.tntyun.cc/#/register?code=GiCykFjU)
+官网地址:[点击进入](http://web01.tnt.cc/#/register?code=GiCykFjU)
 
 机场特色：高速专线，晚高峰不限速，解锁Tiktok、ChatGPT、流媒体Netflix、Disney+、HBO、HUGO
 

@@ -91,7 +91,9 @@
 
 
 
-官网地址:[点击进入](https://ivt01.qyta.cc/register?aff=ymkMqBTU)
+官网地址1:[点击进入](https://a22.qytaff01.cc/verify?next=%2Fregister%3Faff%3DymkMqBTU)
+
+官网地址2:[点击进入](https://ivt01.qytaff.cc/register?aff=ymkMqBTU)
 
 机场特色：全IPLC专线，原生IP解锁各大流媒体，三网优化，智能负载均衡(针对不同用户的本地实际网络分配最适合的入口和线路)。
 
@@ -244,7 +246,7 @@ ping图：
 ## 九、TNTCloud(20/月110G)
 
 
-官网地址:[点击进入](http://web01.tnt.cc/#/register?code=GiCykFjU)
+官网地址:[点击进入](http://web01.tntyun.cc/#/register?code=GiCykFjU)
 
 机场特色：高速专线，晚高峰不限速，解锁Tiktok、ChatGPT、流媒体Netflix、Disney+、HBO、HUGO
 

@@ -232,11 +232,6 @@ ping图：
 
 推荐购买人群：三网推荐
 
-*最大带宽*
-- 热门节点 5Gbps
-
-<img width="3121" height="1495" alt="2025-09-29T14-12-03 292-174" src="https://github.com/user-attachments/assets/f44ede22-d438-45e9-9d7f-2942a2778a0e" />
-
 
 
 [WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)

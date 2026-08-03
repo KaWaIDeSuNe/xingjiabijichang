@@ -74,10 +74,12 @@
 
 过境线路：Lumen（英国）、Lumen（日本）
 
+推荐购买人群：三网推荐
+
 套餐价格:
 <img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />
 
-推荐购买人群：三网推荐
+
 
 
 

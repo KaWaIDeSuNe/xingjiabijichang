@@ -23,8 +23,6 @@
 <img width="1210" height="2305" alt="image" src="https://github.com/user-attachments/assets/f41c1ef1-4964-407c-8585-3ec2ba8b291e" />
 
 
-#### NanoCloud单线程测速（南京电信）
-![单线程南京电信@2000M](https://github.com/user-attachments/assets/de901713-a86b-429d-a499-474bdc147990)
 
 
 ### NanoCloudAI解锁情况

@@ -190,27 +190,7 @@ ping图：
 
 ---
 
-## 七、极速云(15.99/月400G)
-
-官网地址1:[点击进入](https://905.jsy902.xyz/#/register?code=aSnr6JSe)
-
-官网地址2:[点击进入](https://w1.lypyf.com/#/register?code=aSnr6JSe)
-
-主观评价: IEPL+中转线路，注意所有节点都是3倍率，原因见公告，总的来说质量还不错。
-
-推荐购买人群：三网推荐
-
-套餐价格:
-
-<img width="1583" height="668" alt="image" src="https://github.com/user-attachments/assets/fe0bca36-383f-4447-8618-e8de095a0fd4" />
-
-
-
-[极速云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E6%9E%81%E9%80%9F%E4%BA%91.md)
-
----
-
-## 八、WY Cloud(18/月100G)
+## 七、WY Cloud(18/月100G)
 
 
 官网地址1:[点击进入](https://www.z1z1.xyz/#/register?code=jTkEdr8s)
@@ -239,7 +219,7 @@ ping图：
 
 ---
 
-## 九、TNTCloud(20/月110G)
+## 八、TNTCloud(20/月110G)
 
 
 官网地址:[点击进入](http://web01.tntyun.cc/#/register?code=GiCykFjU)

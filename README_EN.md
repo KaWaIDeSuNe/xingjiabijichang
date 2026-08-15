@@ -235,4 +235,4 @@ None at the moment.
 
 ## 📈 Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)

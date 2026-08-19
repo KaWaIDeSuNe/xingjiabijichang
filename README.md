@@ -306,5 +306,5 @@ iOS：apple store搜索clashmi、搜索sing-box、搜索Shadowrocket下载（更
 
 ## Star 历史
 
-![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
 

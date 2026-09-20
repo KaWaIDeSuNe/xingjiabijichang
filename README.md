@@ -185,7 +185,7 @@
 家宽节点：马来西亚
 
 套餐价格:
-<img width="1478" alt="image" src="https://github.com/user-attachments/assets/3c8e95a7-d5fd-447b-aa48-cc617a4d5c77" />
+<img width="1544" height="709" alt="image" src="https://github.com/user-attachments/assets/b8d31914-2027-431b-87bc-c0d9808b69ac" />
 
 ping图：
 ![image](https://github.com/user-attachments/assets/a95f7aae-96c1-49d4-8cd5-8c2fb680ff3c)

@@ -56,7 +56,7 @@
 
 
 
-[飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md)
+[飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#飞兔云)
 
 
 ---
@@ -217,7 +217,7 @@ ping图：
 
 
 
-[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)
+[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#WY云)
 
 ---
 

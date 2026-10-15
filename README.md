@@ -15,6 +15,8 @@
 
 如果对于稳定性也没有特殊的需求，可以参考我的另一篇文档[低价机场推荐](https://github.com/KaWaIDeSuNe/dijiajichang) 最低仅一包辣条的价格。
 
+📊 节点在线状态实时监控（每 10 分钟自动探测）:[节点状态页](https://proxy.20261917.xyz/probe/)
+
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/xingjiabijichang)，您的支持是我更新的动力！
 
@@ -83,7 +85,7 @@
 
 
 
-[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md)
+[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#红叶)
 
 
 ---

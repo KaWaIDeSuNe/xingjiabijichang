@@ -85,7 +85,7 @@
 
 
 
-[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#红叶)
+[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#紅葉)
 
 
 ---

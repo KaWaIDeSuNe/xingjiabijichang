@@ -217,7 +217,7 @@ ping图：
 
 
 
-[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md)
+[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#WY%20Cloud)
 
 ---
 

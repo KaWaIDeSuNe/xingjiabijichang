@@ -30,9 +30,38 @@
 
 暂无 
 
+
 ---
 
-## 一、飞兔云(9.9/月118G)
+## 一、紅葉(10/月158G)
+
+
+官网地址1:[点击进入](https://www.紅葉.site/auth/register?code=V9cquaO2)
+
+官网地址2:[点击进入](https://www.xn--qprx60h.site/auth/register?code=V9cquaO2)
+
+特色：注册即送首月50G免费流量套餐，高速BGP.EIP线路,秒开8K,支持解锁流媒体，GPT，晚高峰不卡,Vmess协议,速度飞快！
+
+主观评价: 10元158G为BGP线路，还有19.8的IPLC专线，整体看起来非常不错，性价比也很高.（近期，更换了机场主）
+
+使用方式: 🟢 支持官方客户端 🟢支持第三方客户端 
+
+过境线路：Lumen（英国）、Lumen（日本）
+
+推荐购买人群：三网推荐
+
+套餐价格:
+<img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />
+
+
+
+
+
+[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#紅葉)
+
+---
+
+## 二、飞兔云(9.9/月118G)
 
 官网地址1:[点击进入](https://vip.xn--h5qy75o.vip/#/register?code=4ZoNj0zb)
 
@@ -59,33 +88,7 @@
 [飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#飞兔云)
 
 
----
 
-## 二、紅葉(10/月158G)
-
-
-官网地址1:[点击进入](https://www.紅葉.site/auth/register?code=V9cquaO2)
-
-官网地址2:[点击进入](https://www.xn--qprx60h.site/auth/register?code=V9cquaO2)
-
-特色：注册即送首月50G免费流量套餐，高速BGP.EIP线路,秒开8K,支持解锁流媒体，GPT，晚高峰不卡,Vmess协议,速度飞快！
-
-主观评价: 10元158G为BGP线路，还有19.8的IPLC专线，整体看起来非常不错，性价比也很高.（近期，更换了机场主）
-
-使用方式: 🟢 支持官方客户端 🟢支持第三方客户端 
-
-过境线路：Lumen（英国）、Lumen（日本）
-
-推荐购买人群：三网推荐
-
-套餐价格:
-<img width="1414" alt="image" src="https://github.com/user-attachments/assets/24c02cff-dfd3-4daa-a848-b971e1709184" />
-
-
-
-
-
-[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#紅葉)
 
 
 ---

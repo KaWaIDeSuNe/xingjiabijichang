@@ -287,11 +287,9 @@ ping图：
 ---
 
 ## 第三方客户端软件下载（配合订阅链接使用）
-MacOS、Linux、Windows下载：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-安卓、鸿蒙下载：[ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+[机场客户端下载地址汇总](https://proxy.20261917.xyz/guide/clients-download.html)
 
-iOS：apple store搜索clashmi、搜索sing-box、搜索Shadowrocket下载（更推荐clashmi和sing-box，Shadowrocket对新协议支持不好）
 
 ---
 

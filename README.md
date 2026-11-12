@@ -2,6 +2,11 @@
 
 <h1 align="center">性价比机场推荐</h1>
 
+<p align="center">
+  <a href="https://proxy.20261917.xyz/xingjiabijichang/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_%E5%9C%A8%E7%BA%BF%E7%BD%91%E9%A1%B5%E7%89%88-%E8%8A%82%E7%82%B9%E5%AE%9E%E6%97%B6%E7%8A%B6%E6%80%81-f48120" alt="在线网页版"></a>
+  <a href="https://proxy.20261917.xyz/probe/"><img src="https://img.shields.io/badge/%F0%9F%93%8A_%E8%8A%82%E7%82%B9%E7%8A%B6%E6%80%81-%E6%AF%8F10%E5%88%86%E9%92%9F%E8%87%AA%E5%8A%A8%E6%8E%A2%E6%B5%8B-1a7f37" alt="节点状态"></a>
+  <a href="https://proxy.20261917.xyz/guide/"><img src="https://img.shields.io/badge/%F0%9F%93%96_%E5%8E%9F%E5%88%9B%E6%95%99%E7%A8%8B-%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8E%E5%8D%8F%E8%AE%AE%E7%A7%91%E6%99%AE-0969da" alt="原创教程"></a>
+</p>
 
 <p align="center">
   <strong>简体中文</strong>
@@ -15,7 +20,7 @@
 
 如果对于稳定性也没有特殊的需求，可以参考我的另一篇文档[低价机场推荐](https://github.com/KaWaIDeSuNe/dijiajichang) 最低仅一包辣条的价格。
 
-📊 节点在线状态实时监控（每 10 分钟自动探测）:[节点状态页](https://proxy.20261917.xyz/probe/)
+🌐 [在线网页版(阅读体验更佳)](https://proxy.20261917.xyz/xingjiabijichang/) · 📊 [节点状态实时监控(每 10 分钟自动探测)](https://proxy.20261917.xyz/probe/) · 📖 [客户端下载与原创教程](https://proxy.20261917.xyz/guide/)
 
 
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/KaWaIDeSuNe/xingjiabijichang)，您的支持是我更新的动力！
@@ -70,7 +75,7 @@
 
 
 
-[紅葉测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#紅葉)
+[紅葉测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E7%B4%85%E8%91%89.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#紅葉)
 
 ---
 
@@ -98,7 +103,7 @@
 
 
 
-[飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#飞兔云)
+[飞兔云测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#飞兔云)
 
 
 
@@ -131,7 +136,7 @@
 
 
 
-[青云梯测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.md)
+[青云梯测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E9%9D%92%E4%BA%91%E6%A2%AF.html)
 
 
 
@@ -152,7 +157,7 @@
 
 不推荐人群：江苏用户 （用户反馈江苏移动不可用）
 
-[龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
+[龙猫云测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.html)
 
 
 
@@ -201,7 +206,7 @@ ping图：
 <img width="820" alt="image" src="https://github.com/user-attachments/assets/d901cbdc-b9e5-4189-bdf1-5e96c45070fc" />
 
 
-[KTM Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/KTMCloud.md)
+[KTM Cloud测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/KTMCloud.html)
 
 
 
@@ -233,7 +238,7 @@ ping图：
 
 
 
-[WY Cloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/WY%20Cloud.md) · [📊 节点状态](https://proxy.20261917.xyz/probe/#WY%20Cloud)
+[WY Cloud测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/WY%20Cloud.html) · [📊 节点状态](https://proxy.20261917.xyz/probe/#WY%20Cloud)
 
 ---
 
@@ -258,7 +263,7 @@ ping图：
 
 
 
-[TNTCloud测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/TNTCloud.md)
+[TNTCloud测速、解锁、线路分析详情](https://proxy.20261917.xyz/xingjiabijichang/%E6%B5%8B%E8%AF%84/TNTCloud.html)
 
 ---
 
